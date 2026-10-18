@@ -1,0 +1,326 @@
+{
+  "_status": "DRAFT 2026-10-18 for ADM approval, then Johan. Not active: the workflow only runs once moved to the news repo.",
+  "_note": "Headline + link only. kind: official | press | advocacy (advocacy keeps its own chip; at most 2). Official first. Feeds and APIs only, no scraping, no paywalls. topic general = keep only titles that match match_title. Schema: validate_sources.py; check the feeds again with verify_sources.py.",
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "war-releases",
+      "name": "U.S. Department of War",
+      "kind": "official",
+      "feed_url": "https://www.war.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=9&Site=945&max=50",
+      "site_url": "https://www.war.gov/News/Releases/",
+      "feed_format": "rss",
+      "topic": "general",
+      "match_title": [
+        "UAP",
+        "UAPs",
+        "UFO",
+        "UFOs",
+        "AARO",
+        "PURSUE",
+        "unidentified anomalous",
+        "anomalous phenomena",
+        "All-domain Anomaly Resolution"
+      ],
+      "why": "The Pentagon's own release page; it publishes the AARO / PURSUE UAP file releases on the record.",
+      "lang": "en",
+      "enabled": true,
+      "paywall": false,
+      "verified": {
+        "on": "2026-10-18",
+        "http": 200,
+        "items": 50,
+        "latest_item": "2026-10-18T00:55:00Z",
+        "matching_items": 2
+      }
+    },
+    {
+      "id": "house-oversight",
+      "name": "House Oversight Committee",
+      "kind": "official",
+      "feed_url": "https://oversight.house.gov/release/feed/",
+      "site_url": "https://oversight.house.gov/release/",
+      "feed_format": "rss",
+      "topic": "general",
+      "match_title": [
+        "UAP",
+        "UAPs",
+        "UFO",
+        "UFOs",
+        "unidentified anomalous",
+        "anomalous phenomena",
+        "Task Force on the Declassification"
+      ],
+      "why": "Official committee press releases; the committee held the 2023 and 2024 UAP hearings.",
+      "lang": "en",
+      "enabled": true,
+      "paywall": false,
+      "verified": {
+        "on": "2026-10-18",
+        "http": 200,
+        "items": 10,
+        "latest_item": "2026-10-13T14:03:09Z",
+        "matching_items": 0
+      }
+    },
+    {
+      "id": "house-armed-services",
+      "name": "House Armed Services Committee",
+      "kind": "official",
+      "feed_url": "https://armedservices.house.gov/news/rss.aspx",
+      "site_url": "https://armedservices.house.gov/news",
+      "feed_format": "rss",
+      "topic": "general",
+      "match_title": [
+        "UAP",
+        "UAPs",
+        "UFO",
+        "UFOs",
+        "AARO",
+        "unidentified anomalous",
+        "anomalous phenomena"
+      ],
+      "https_upgrade": true,
+      "why": "Official committee news; it writes the NDAA, where the UAP reporting and AARO rules sit.",
+      "lang": "en",
+      "enabled": true,
+      "paywall": false,
+      "verified": {
+        "on": "2026-10-18",
+        "http": 200,
+        "items": 20,
+        "latest_item": "2026-07-22T04:00:00Z",
+        "matching_items": 0
+      }
+    },
+    {
+      "id": "senate-intelligence",
+      "name": "Senate Intelligence Committee",
+      "kind": "official",
+      "feed_url": "https://www.intelligence.senate.gov/feed/",
+      "site_url": "https://www.intelligence.senate.gov/",
+      "feed_format": "rss",
+      "topic": "general",
+      "match_title": [
+        "UAP",
+        "UAPs",
+        "UFO",
+        "UFOs",
+        "AARO",
+        "unidentified anomalous",
+        "anomalous phenomena"
+      ],
+      "why": "Official committee site; its intelligence authorization bills set the UAP reporting rules for agencies.",
+      "lang": "en",
+      "enabled": true,
+      "paywall": false,
+      "verified": {
+        "on": "2026-10-18",
+        "http": 200,
+        "items": 10,
+        "latest_item": "2026-09-28T13:33:06Z",
+        "matching_items": 0
+      }
+    },
+    {
+      "id": "house-intelligence",
+      "name": "House Intelligence Committee",
+      "kind": "official",
+      "feed_url": "https://intelligence.house.gov/feed/",
+      "site_url": "https://intelligence.house.gov/",
+      "feed_format": "rss",
+      "topic": "general",
+      "match_title": [
+        "UAP",
+        "UAPs",
+        "UFO",
+        "UFOs",
+        "AARO",
+        "unidentified anomalous",
+        "anomalous phenomena"
+      ],
+      "why": "Official committee site; it held the 2022 UAP hearing and oversees the intelligence UAP work.",
+      "lang": "en",
+      "enabled": true,
+      "paywall": false,
+      "verified": {
+        "on": "2026-10-18",
+        "http": 200,
+        "items": 10,
+        "latest_item": "2026-10-07T11:38:53Z",
+        "matching_items": 0
+      }
+    },
+    {
+      "id": "gao-reports",
+      "name": "U.S. Government Accountability Office",
+      "kind": "official",
+      "feed_url": "https://www.gao.gov/rss/reports.xml",
+      "site_url": "https://www.gao.gov/reports-testimonies",
+      "feed_format": "rss",
+      "topic": "general",
+      "match_title": [
+        "UAP",
+        "UAPs",
+        "UFO",
+        "UFOs",
+        "AARO",
+        "unidentified anomalous",
+        "anomalous phenomena"
+      ],
+      "why": "Congress's nonpartisan auditor; its reports and testimonies are official records.",
+      "lang": "en",
+      "enabled": true,
+      "paywall": false,
+      "verified": {
+        "on": "2026-10-18",
+        "http": 200,
+        "items": 25,
+        "latest_item": "2026-10-16T14:40:46Z",
+        "matching_items": 0
+      }
+    },
+    {
+      "id": "newsnation-ufo",
+      "name": "NewsNation",
+      "kind": "press",
+      "feed_url": "https://www.newsnationnow.com/space/ufo/feed/",
+      "site_url": "https://www.newsnationnow.com/space/ufo/",
+      "feed_format": "rss",
+      "topic": "uap",
+      "why": "National U.S. TV news network with a dedicated, free UAP section and named reporters.",
+      "lang": "en",
+      "enabled": true,
+      "paywall": false,
+      "verified": {
+        "on": "2026-10-18",
+        "http": 200,
+        "items": 12,
+        "latest_item": "2026-10-18T12:00:00Z",
+        "matching_items": 12
+      }
+    },
+    {
+      "id": "space-com-ufos",
+      "name": "Space.com",
+      "kind": "press",
+      "feed_url": "https://www.space.com/feeds/tag/ufos",
+      "site_url": "https://www.space.com/",
+      "feed_format": "rss",
+      "topic": "uap",
+      "why": "Long-running science and space news site (Future plc); free UFO/UAP tag with bylined reporting.",
+      "lang": "en",
+      "enabled": true,
+      "paywall": false,
+      "verified": {
+        "on": "2026-10-18",
+        "http": 200,
+        "items": 50,
+        "latest_item": "2026-10-05T10:00:00Z",
+        "matching_items": 50
+      }
+    },
+    {
+      "id": "the-debrief",
+      "name": "The Debrief",
+      "kind": "press",
+      "feed_url": "https://thedebrief.org/feed/",
+      "site_url": "https://thedebrief.org/",
+      "feed_format": "rss",
+      "topic": "general",
+      "match_title": [
+        "UAP",
+        "UAPs",
+        "UFO",
+        "UFOs",
+        "AARO",
+        "PURSUE",
+        "unidentified anomalous",
+        "unidentified aerial",
+        "anomalous phenomena"
+      ],
+      "why": "Free science and defense news outlet with bylined reporters that has covered UAP policy since 2020.",
+      "lang": "en",
+      "enabled": true,
+      "paywall": false,
+      "verified": {
+        "on": "2026-10-18",
+        "http": 200,
+        "items": 100,
+        "latest_item": "2026-10-17T12:42:07Z",
+        "matching_items": 2
+      }
+    },
+    {
+      "id": "black-vault",
+      "name": "The Black Vault",
+      "kind": "press",
+      "feed_url": "https://www.theblackvault.com/documentarchive/feed/",
+      "site_url": "https://www.theblackvault.com/documentarchive/",
+      "feed_format": "rss",
+      "topic": "general",
+      "match_title": [
+        "UAP",
+        "UAPs",
+        "UFO",
+        "UFOs",
+        "AARO",
+        "PURSUE",
+        "unidentified anomalous",
+        "unidentified aerial",
+        "anomalous phenomena"
+      ],
+      "why": "Free FOIA archive (since 1996) that posts the government records it obtains, with the documents.",
+      "lang": "en",
+      "enabled": true,
+      "paywall": false,
+      "verified": {
+        "on": "2026-10-18",
+        "http": 200,
+        "items": 25,
+        "latest_item": "2026-10-16T10:50:19Z",
+        "matching_items": 4
+      }
+    },
+    {
+      "id": "scu",
+      "name": "Scientific Coalition for UAP Studies",
+      "kind": "advocacy",
+      "feed_url": "https://www.explorescu.org/blog-feed.xml",
+      "site_url": "https://www.explorescu.org/",
+      "feed_format": "rss",
+      "topic": "uap",
+      "why": "Nonprofit of scientists and analysts that publishes UAP research papers; its statements are its own.",
+      "lang": "en",
+      "enabled": true,
+      "paywall": false,
+      "verified": {
+        "on": "2026-10-18",
+        "http": 200,
+        "items": 20,
+        "latest_item": "2026-10-16T14:35:32Z",
+        "matching_items": 20
+      }
+    },
+    {
+      "id": "sol-foundation",
+      "name": "Sol Foundation",
+      "kind": "advocacy",
+      "feed_url": "https://thesolfoundation.org/feed/",
+      "site_url": "https://thesolfoundation.org/",
+      "feed_format": "rss",
+      "topic": "uap",
+      "why": "Research and policy institute on UAP; publishes papers and symposia; its statements are its own positions.",
+      "lang": "en",
+      "enabled": true,
+      "paywall": false,
+      "verified": {
+        "on": "2026-10-18",
+        "http": 200,
+        "items": 7,
+        "latest_item": "2026-07-10T22:10:28Z",
+        "matching_items": 7
+      }
+    }
+  ]
+}
