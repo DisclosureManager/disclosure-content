@@ -1,0 +1,143 @@
+{
+  "version": 2,
+  "terms": [
+    {
+      "acronym": "AARO",
+      "expansion": "All-domain Anomaly Resolution Office",
+      "definition": "Pentagon office created in July 2022 to detect, identify and attribute UAP in space, in the air, under water and across domains. Publishes the annual UAP reports and the Historical Record Report.",
+      "definition_de": "Im Juli 2022 gegründetes Büro des Pentagons, das UAP im Weltraum, in der Luft, unter Wasser und domänenübergreifend erfassen, identifizieren und zuordnen soll. Veröffentlicht die jährlichen UAP-Berichte und den Historical Record Report."
+    },
+    {
+      "acronym": "AATIP",
+      "expansion": "Advanced Aerospace Threat Identification Program",
+      "definition": "Pentagon program revealed by The New York Times in December 2017. It began in 2007, largely at Senator Harry Reid's request; the Defense Department says funding ended in 2012.",
+      "definition_de": "Pentagon-Programm, das die New York Times im Dezember 2017 enthüllte. Es begann 2007 vor allem auf Wunsch von Senator Harry Reid; laut Verteidigungsministerium endete die Finanzierung 2012."
+    },
+    {
+      "acronym": "AAWSAP",
+      "expansion": "Advanced Aerospace Weapon System Applications Program",
+      "definition": "Defense Intelligence Agency program closely linked to AATIP. Its contractor research produced the Defense Intelligence Reference Documents (DIRDs) republished in 2026.",
+      "definition_de": "Programm des Militärgeheimdienstes DIA, eng verbunden mit AATIP. Aus seiner Auftragsforschung stammen die Defense Intelligence Reference Documents (DIRDs), die 2026 erneut veröffentlicht wurden."
+    },
+    {
+      "acronym": "AOIMSG",
+      "expansion": "Airborne Object Identification and Management Synchronization Group",
+      "definition": "Pentagon group set up in November 2021 as successor to the Navy's UAP Task Force. Replaced by AARO in July 2022.",
+      "definition_de": "Im November 2021 gegründete Pentagon-Gruppe, Nachfolgerin der UAP Task Force der Navy. Im Juli 2022 durch AARO ersetzt."
+    },
+    {
+      "acronym": "ATFLIR",
+      "expansion": "Advanced Targeting Forward-Looking Infrared",
+      "definition": "Targeting pod with an infrared camera carried by Navy F/A-18 jets. The Navy videos released in 2020 are infrared recordings from F/A-18 sensors.",
+      "definition_de": "Zielerfassungsbehälter mit Infrarotkamera an F/A-18-Jets der Navy. Die 2020 freigegebenen Navy-Videos sind Infrarotaufnahmen von F/A-18-Sensoren."
+    },
+    {
+      "acronym": "Blue Book",
+      "expansion": "Project Blue Book",
+      "definition": "U.S. Air Force UFO investigation project from 1952 to 1969, successor to SIGN and GRUDGE. Of 12,618 reported sightings, 701 remained 'unidentified'.",
+      "definition_de": "UFO-Untersuchungsprojekt der US-Luftwaffe von 1952 bis 1969, Nachfolger von SIGN und GRUDGE. Von 12.618 gemeldeten Sichtungen blieben 701 „unidentifiziert“."
+    },
+    {
+      "acronym": "Condon Report",
+      "expansion": "Scientific Study of Unidentified Flying Objects",
+      "definition": "Air Force-funded University of Colorado study led by physicist Edward Condon, released in 1969. It concluded further extensive UFO study was probably not justified and led to the end of Blue Book.",
+      "definition_de": "Von der Luftwaffe finanzierte Studie der University of Colorado unter dem Physiker Edward Condon, veröffentlicht 1969. Sie hielt weitere umfassende UFO-Forschung für kaum gerechtfertigt und führte zum Ende von Blue Book."
+    },
+    {
+      "acronym": "DIRD",
+      "expansion": "Defense Intelligence Reference Document",
+      "definition": "Reports produced under AAWSAP on topics such as warp drives, wormholes and antigravity. The Pentagon describes them as reference and synthesis products, not original research or validation.",
+      "definition_de": "Unter AAWSAP entstandene Berichte zu Themen wie Warp-Antrieb, Wurmlöchern und Antigravitation. Das Pentagon beschreibt sie als Übersichtsarbeiten, nicht als eigene Forschung oder Bestätigung."
+    },
+    {
+      "acronym": "FLIR",
+      "expansion": "Forward-Looking Infrared",
+      "definition": "Infrared camera that images heat rather than visible light. Several publicly released Navy UAP videos are FLIR recordings.",
+      "definition_de": "Infrarotkamera, die Wärme statt sichtbaren Lichts abbildet. Mehrere veröffentlichte UAP-Videos der Navy sind FLIR-Aufnahmen."
+    },
+    {
+      "acronym": "FOIA",
+      "expansion": "Freedom of Information Act",
+      "definition": "U.S. law that lets the public request federal agency records. Many UFO and UAP documents, including the FBI Vault files, were released through it.",
+      "definition_de": "US-Gesetz, nach dem jeder Akten von Bundesbehörden anfordern kann. Viele UFO- und UAP-Dokumente, auch die Akten im FBI Vault, wurden so freigegeben."
+    },
+    {
+      "acronym": "ICIG",
+      "expansion": "Inspector General of the Intelligence Community",
+      "definition": "Independent watchdog for the U.S. intelligence agencies. David Grusch gave this office classified information about alleged UAP programs.",
+      "definition_de": "Unabhängige Kontrollinstanz der US-Geheimdienste. David Grusch übergab ihr geheime Informationen über angebliche UAP-Programme."
+    },
+    {
+      "acronym": "NDAA",
+      "expansion": "National Defense Authorization Act",
+      "definition": "Annual U.S. defense law. Since fiscal year 2022 it has contained provisions on the UAP office, reporting channels and the UAP records collection.",
+      "definition_de": "Jährliches US-Verteidigungsgesetz. Seit dem Haushaltsjahr 2022 enthält es Regelungen zum UAP-Büro, zu Meldewegen und zur UAP-Aktensammlung."
+    },
+    {
+      "acronym": "NHI",
+      "expansion": "Non-human intelligence",
+      "definition": "Term used in the 2023 Schumer-Rounds proposal and in the FY2024 NDAA records collection. Its use in law does not mean such intelligence has been shown to exist.",
+      "definition_de": "Begriff aus dem Schumer-Rounds-Vorschlag von 2023 und der UAP-Aktensammlung im Verteidigungsgesetz 2024. Dass er im Gesetz steht, heißt nicht, dass eine solche Intelligenz nachgewiesen wäre."
+    },
+    {
+      "acronym": "NRO",
+      "expansion": "National Reconnaissance Office",
+      "definition": "U.S. agency that builds and operates spy satellites. David Grusch served there in a reservist capacity before going public.",
+      "definition_de": "US-Behörde, die Aufklärungssatelliten baut und betreibt. David Grusch war dort als Reservist tätig, bevor er an die Öffentlichkeit ging."
+    },
+    {
+      "acronym": "ODNI",
+      "expansion": "Office of the Director of National Intelligence",
+      "definition": "Office that coordinates the U.S. intelligence agencies. It issued the 2021 preliminary UAP assessment and co-signs the annual UAP reports.",
+      "definition_de": "Behörde, die die US-Geheimdienste koordiniert. Sie veröffentlichte 2021 die vorläufige UAP-Bewertung und zeichnet die Jahresberichte mit."
+    },
+    {
+      "acronym": "PURSUE",
+      "expansion": "Presidential Unsealing and Reporting System for UAP Encounters",
+      "definition": "Interagency effort led by the Department of War since 2026 to declassify and publish UAP files on war.gov/UFO in rolling releases.",
+      "definition_de": "Behördenübergreifende Initiative unter Führung des Kriegsministeriums seit 2026, die UAP-Akten freigibt und fortlaufend auf war.gov/UFO veröffentlicht."
+    },
+    {
+      "acronym": "Robertson Panel",
+      "expansion": "Scientific Advisory Panel on Unidentified Flying Objects",
+      "definition": "Group of scientists convened by the CIA in January 1953 and chaired by physicist H. P. Robertson. It found no direct threat to national security and no evidence of extraterrestrial visitors.",
+      "definition_de": "Von der CIA im Januar 1953 einberufenes Wissenschaftlergremium unter Leitung des Physikers H. P. Robertson. Es sah keine direkte Bedrohung der nationalen Sicherheit und keine Belege für außerirdische Besucher."
+    },
+    {
+      "acronym": "SAP",
+      "expansion": "Special Access Program",
+      "definition": "Classified program with access controls stricter than normal secrecy rules. Whistleblowers have alleged that UAP programs are hidden inside SAPs.",
+      "definition_de": "Geheimprogramm mit strengeren Zugangsregeln als die übliche Geheimhaltung. Whistleblower behaupten, UAP-Programme seien in solchen Programmen versteckt."
+    },
+    {
+      "acronym": "SCIF",
+      "expansion": "Sensitive Compartmented Information Facility",
+      "definition": "Secured room or building where classified information can be discussed. Witnesses often say some details can only be shared there.",
+      "definition_de": "Abhörsicherer Raum oder Gebäude für Gespräche über Geheiminformationen. Zeugen sagen oft, manche Details könnten sie nur dort nennen."
+    },
+    {
+      "acronym": "UAP",
+      "expansion": "Unidentified Anomalous Phenomena",
+      "definition": "Current U.S. government term for observations that cannot be immediately identified, in the air, in space or under water. It replaced 'unidentified aerial phenomena' in 2022-23. 'Unidentified' does not mean extraterrestrial.",
+      "definition_de": "Heutiger Begriff der US-Regierung für Beobachtungen, die sich nicht sofort identifizieren lassen – in der Luft, im Weltraum oder unter Wasser. Er ersetzte 2022/23 „unidentified aerial phenomena“. „Unidentifiziert“ heißt nicht außerirdisch."
+    },
+    {
+      "acronym": "UAPTF",
+      "expansion": "Unidentified Aerial Phenomena Task Force",
+      "definition": "Navy-led Pentagon task force approved in August 2020 to detect, analyze and catalog UAP. Its data formed the basis of the 2021 ODNI preliminary assessment.",
+      "definition_de": "Von der Navy geführte Task Force des Pentagons, im August 2020 genehmigt, um UAP zu erfassen, zu analysieren und zu katalogisieren. Ihre Daten bildeten die Grundlage der vorläufigen ODNI-Bewertung von 2021."
+    },
+    {
+      "acronym": "UFO",
+      "expansion": "Unidentified Flying Object",
+      "definition": "Older term used officially from the early 1950s, now largely replaced by UAP in official use. In popular speech it often implies alien craft; officially it only means unidentified.",
+      "definition_de": "Älterer Begriff, amtlich ab Anfang der 1950er verwendet; im amtlichen Gebrauch heute weitgehend durch UAP ersetzt. Umgangssprachlich oft für außerirdische Raumschiffe gebraucht, amtlich bedeutet er nur „nicht identifiziert“."
+    },
+    {
+      "acronym": "USO",
+      "expansion": "Unidentified Submerged Object",
+      "definition": "Unidentified object reported in or under water. AARO's remit explicitly includes submerged and 'transmedium' objects.",
+      "definition_de": "Unidentifiziertes Objekt, das im oder unter Wasser gemeldet wird. AAROs Auftrag umfasst ausdrücklich Objekte unter Wasser und solche, die zwischen Medien wechseln („transmedium“)."
+    }
+  ]
+}
