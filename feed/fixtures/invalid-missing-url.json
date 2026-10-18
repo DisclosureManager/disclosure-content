@@ -1,0 +1,67 @@
+{
+  "feed_version": 1,
+  "generated_at": "2026-10-18T19:17:00Z",
+  "items": [
+    {
+      "id": "n-2026-10-18-agency-update",
+      "title": "Agency posts its quarterly UAP case update",
+      "source": "Example Agency",
+      "source_kind": "official",
+      "published_at": "2026-10-18T14:02:00Z",
+      "summary": "Official status of resolved and open cases for the quarter.",
+      "summary_de": "Offizieller Stand gelöster und offener Fälle im Quartal.",
+      "lang": "en"
+    },
+    {
+      "id": "n-2026-10-18-hearing-date",
+      "title": "Committee sets a date for the next UAP hearing",
+      "url": "https://news.example.com/politics/uap-hearing-date",
+      "source": "Example News",
+      "source_kind": "press",
+      "published_at": "2026-10-18T09:30:00Z",
+      "summary": "Committee schedule only; witnesses not yet named.",
+      "summary_de": "Nur der Termin des Ausschusses; Zeugen noch nicht benannt.",
+      "lang": "en"
+    },
+    {
+      "id": "n-2026-10-17-foia-tracker",
+      "title": "Advocacy group publishes a tracker of pending UAP FOIA requests",
+      "url": "https://www.example.org/foia-tracker",
+      "source": "Example Disclosure Project",
+      "source_kind": "advocacy",
+      "published_at": "2026-10-17T18:45:00Z",
+      "summary": "An advocacy group's own list; not an official record.",
+      "summary_de": "Eigene Liste einer Interessengruppe, kein offizielles Dokument.",
+      "lang": "en"
+    },
+    {
+      "id": "n-2026-10-17-archives-batch",
+      "title": "Archive adds a new batch to its UAP records collection",
+      "url": "https://archive.example.gov/uap-collection/batch-7",
+      "source": "Example Archive",
+      "source_kind": "official",
+      "published_at": "2026-10-17T12:00:00Z",
+      "lang": "en"
+    },
+    {
+      "id": "n-2026-10-16-explainer",
+      "title": "What the new UAP records law does and does not require",
+      "url": "https://press.example.net/explainers/uap-records-law",
+      "source": "Example Press",
+      "source_kind": "press",
+      "published_at": "2026-10-16T07:15:00Z",
+      "lang": "en"
+    },
+    {
+      "id": "n-2026-10-15-open-letter",
+      "title": "Open letter asks Congress to fund the records review board",
+      "url": "https://campaign.example.org/open-letter",
+      "source": "Example Coalition",
+      "source_kind": "advocacy",
+      "published_at": "2026-10-15T16:20:00Z",
+      "summary": "Advocacy letter; states the group's position.",
+      "summary_de": "Brief einer Interessengruppe; gibt ihre Position wieder.",
+      "lang": "en"
+    }
+  ]
+}
