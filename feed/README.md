@@ -35,15 +35,16 @@ The app shows `generated_at` as "Updated <date, time>" plus "Updated hourly" / "
 |---|---|
 | `validate_news.py` | Validator (CLI: `validate_news.py news.json`; `--expect-invalid` for the bad fixtures). |
 | `build_news.py` | Hourly builder: approved RSS/Atom sources → `news.json`. Conditional requests (ETag / Last-Modified in the state file), 15 s per source, a failing source keeps its last good items, titles + links only (descriptions are never read), summaries only from `summaries.json`, writes only when the items change, validates before writing. |
-| `sources.json` | Source list, **DRAFT** of 18 Oct 2026 (12 sources: 6 official, 4 press, 2 advocacy) for ADM, then Johan. Each: id, name, kind, feed_url, site_url, feed_format, topic, why, lang, enabled, paywall (+ match_title for general feeds, https_upgrade, verified). |
+| `sources.json` | Source list, **APPROVED** by ADM on 18 Oct 2026 (12 sources: 6 official, 4 press, 2 advocacy). Each: id, name, kind, feed_url, site_url, feed_format, topic, why, lang, enabled, paywall (+ match_title for general feeds, https_upgrade, verified). |
 | `validate_sources.py` | sources.json schema: required fields, https feed/site URLs, rss/atom only (no scraping), `paywall: false`, at most 2 advocacy, official first, `match_title` required when `topic` is general, unknown keys rejected. Run by the builder (exit 1 on an invalid list) and by the workflow. |
 | `verify_sources.py` | Fetches each source like the builder (same User-Agent, parser, title filter): HTTP status, items, latest item, UAP items. `--markdown` prints the table, `--write` stores it in `verified`. |
 | `summaries.json` | Our own optional one-liners keyed by item id or url. |
 | `workflows/news-feed.yml` | GitHub Action: cron `17 * * * *` + manual, concurrency `news-feed` (cancel in progress), built-in `GITHUB_TOKEN` with `contents: write` (no secrets), commit only when `news.json` changed (pull --rebase before the push). Inactive here (not under `.github/workflows`). |
 | `fixtures/` | `news-sample.json` (= the app's DEBUG `-uitest-news-fixture sample`), `news-empty.json`, `invalid-*.json`. |
-| `tests/` | `python3 -m unittest discover -s feed/tests` (recorded RSS + Atom, fake server). |
+| `news_items_changed.py` | Workflow commit gate: exit 0 (commit) only when the `items` of `news.json` differ from `HEAD:news.json` or there is none yet; `generated_at` or `feed/state/` alone never commit. |
+| `tests/` | `python3 -m unittest discover -s feed/tests` (recorded RSS + Atom, fake server). App repo only, not copied to `disclosure-content`. |
 
 ## In `disclosure-content`
-`workflows/news-feed.yml` → `.github/workflows/`; the tools, `sources.json`, `summaries.json`, `fixtures/`, `tests/` →
-`feed/`; ETag state → `feed/state/news-state.json`; output `news.json` at the repo root. Run the workflow once by hand
+`workflows/news-feed.yml` → `.github/workflows/`; the tools (incl. `news_items_changed.py`), `sources.json`, `summaries.json`, `fixtures/` →
+`feed/` (`tests/` stay in the app repo); ETag state → `feed/state/news-state.json`; output `news.json` at the repo root. Run the workflow once by hand
 (Actions › news-feed › Run workflow), then check that the raw URL above serves `news.json`.

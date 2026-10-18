@@ -1,5 +1,5 @@
 {
-  "_status": "DRAFT 2026-10-18 for ADM approval, then Johan. Not active: the workflow only runs once moved to the news repo.",
+  "_status": "APPROVED by ADM on 2026-10-18 (all 12 sources). Changes to the list need ADM's approval.",
   "_note": "Headline + link only. kind: official | press | advocacy (advocacy keeps its own chip; at most 2). Official first. Feeds and APIs only, no scraping, no paywalls. topic general = keep only titles that match match_title. Schema: validate_sources.py; check the feeds again with verify_sources.py.",
   "schema_version": 1,
   "sources": [
