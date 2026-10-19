@@ -1,6 +1,6 @@
 {
   "feed_version": 1,
-  "generated_at": "2026-10-18T21:06:49Z",
+  "generated_at": "2026-10-19T02:50:35Z",
   "items": [
     {
       "id": "newsnation-ufo-d047d91d5c9c",
@@ -162,15 +162,6 @@
       "source": "NewsNation",
       "source_kind": "press",
       "published_at": "2026-09-20T12:00:00Z",
-      "lang": "en"
-    },
-    {
-      "id": "newsnation-ufo-f314dc8af1e9",
-      "title": "UFO files: Avi Loeb puzzled by unusual objects in sightings being soundless",
-      "url": "https://www.newsnationnow.com/prime/pentagon-ufo-files-avi-loeb/",
-      "source": "NewsNation",
-      "source_kind": "press",
-      "published_at": "2026-09-20T02:30:00Z",
       "lang": "en"
     },
     {
