@@ -1,6 +1,6 @@
 {
   "feed_version": 1,
-  "generated_at": "2026-10-20T04:50:27Z",
+  "generated_at": "2026-10-20T05:49:13Z",
   "items": [
     {
       "id": "newsnation-ufo-d047d91d5c9c",
@@ -153,15 +153,6 @@
       "source": "NewsNation",
       "source_kind": "press",
       "published_at": "2026-09-22T21:00:00Z",
-      "lang": "en"
-    },
-    {
-      "id": "newsnation-ufo-63d80a535a4d",
-      "title": "Ross Coulthart Q&A: Coulthart: New whistleblower rules are 'not transparency'",
-      "url": "https://www.newsnationnow.com/podcasts-newsnation/reality-check/ross-coulthart-qa-coulthart-new-whistleblower-rules-are-not-transparency/",
-      "source": "NewsNation",
-      "source_kind": "press",
-      "published_at": "2026-09-20T12:00:00Z",
       "lang": "en"
     },
     {
