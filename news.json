@@ -1,7 +1,16 @@
 {
   "feed_version": 1,
-  "generated_at": "2026-10-21T01:03:43Z",
+  "generated_at": "2026-10-21T02:50:44Z",
   "items": [
+    {
+      "id": "newsnation-ufo-5e8810fedfcc",
+      "title": "Ex-government UAP hunter pens book, describes aliens he's seen",
+      "url": "https://www.newsnationnow.com/politics/pentagon-ufo-hunter-jay-stratton-aliens/",
+      "source": "NewsNation",
+      "source_kind": "press",
+      "published_at": "2026-10-21T02:48:39Z",
+      "lang": "en"
+    },
     {
       "id": "newsnation-ufo-2a8882a4bed9",
       "title": "Unexplained objects over British bases | Reality Check",
