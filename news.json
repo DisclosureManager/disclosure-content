@@ -1,7 +1,25 @@
 {
   "feed_version": 1,
-  "generated_at": "2026-10-22T03:53:26Z",
+  "generated_at": "2026-10-23T13:01:39Z",
   "items": [
+    {
+      "id": "war-releases-193f5fe959d6",
+      "title": "Department of War Publishes Seventh Release of Unidentified Anomalous Phenomena Files on WAR.GOV/UFO",
+      "url": "https://www.war.gov/News/Releases/Release/Article/4632058/department-of-war-publishes-seventh-release-of-unidentified-anomalous-phenomena/",
+      "source": "U.S. Department of War",
+      "source_kind": "official",
+      "published_at": "2026-10-23T12:00:02Z",
+      "lang": "en"
+    },
+    {
+      "id": "newsnation-ufo-071ce61e9dc0",
+      "title": "Latest Pentagon UFO files include reports of triangular craft over military sites",
+      "url": "https://www.newsnationnow.com/space/ufo/latest-ufo-files-oct-23/",
+      "source": "NewsNation",
+      "source_kind": "press",
+      "published_at": "2026-10-23T12:00:00Z",
+      "lang": "en"
+    },
     {
       "id": "newsnation-ufo-5e8810fedfcc",
       "title": "Ex-government UAP hunter pens book, describes aliens he's seen",
