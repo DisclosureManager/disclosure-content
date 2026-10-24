@@ -1,7 +1,16 @@
 {
   "feed_version": 1,
-  "generated_at": "2026-10-24T03:51:42Z",
+  "generated_at": "2026-10-24T05:49:24Z",
   "items": [
+    {
+      "id": "newsnation-ufo-9ab8b4ae80ab",
+      "title": "Roswell UFO wreckage account resurfaces in seventh file drop",
+      "url": "https://www.newsnationnow.com/us-news/west/roswell-ufo-eyewitness-walter-haut/",
+      "source": "NewsNation",
+      "source_kind": "press",
+      "published_at": "2026-10-24T04:58:23Z",
+      "lang": "en"
+    },
     {
       "id": "newsnation-ufo-4a447553fe5d",
       "title": "UFO sightings of ‘black triangles’ part of long history: UAP experts",
