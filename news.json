@@ -1,7 +1,16 @@
 {
   "feed_version": 1,
-  "generated_at": "2026-10-24T05:49:24Z",
+  "generated_at": "2026-10-25T02:50:24Z",
   "items": [
+    {
+      "id": "newsnation-ufo-45d6a63cfbac",
+      "title": "Scientist’s solution to solve UFO mystery: New sensors",
+      "url": "https://www.newsnationnow.com/prime/scientists-solution-for-ufo-mysteries-new-sensors/",
+      "source": "NewsNation",
+      "source_kind": "press",
+      "published_at": "2026-10-25T02:03:36Z",
+      "lang": "en"
+    },
     {
       "id": "newsnation-ufo-9ab8b4ae80ab",
       "title": "Roswell UFO wreckage account resurfaces in seventh file drop",
