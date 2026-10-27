@@ -1,7 +1,16 @@
 {
   "feed_version": 1,
-  "generated_at": "2026-10-26T15:45:43Z",
+  "generated_at": "2026-10-27T23:47:38Z",
   "items": [
+    {
+      "id": "newsnation-ufo-a6dcb6b012f5",
+      "title": "An unusual client, a congressman and Roswell | Reality Check",
+      "url": "https://www.newsnationnow.com/podcasts-newsnation/reality-check/an-unusual-client-a-congressman-and-roswell-reality-check/",
+      "source": "NewsNation",
+      "source_kind": "press",
+      "published_at": "2026-10-27T23:00:00Z",
+      "lang": "en"
+    },
     {
       "id": "newsnation-ufo-54195783d7c1",
       "title": "What new UFO files reveal about 'black triangles,' a long-reported phenom",
