@@ -1,6 +1,6 @@
 {
   "feed_version": 1,
-  "generated_at": "2026-10-28T01:20:13Z",
+  "generated_at": "2026-10-28T04:01:47Z",
   "items": [
     {
       "id": "newsnation-ufo-5eee6e47dd43",
@@ -270,15 +270,6 @@
       "source": "Space.com",
       "source_kind": "press",
       "published_at": "2026-09-14T17:00:00Z",
-      "lang": "en"
-    },
-    {
-      "id": "war-releases-6daba6755330",
-      "title": "Department of War Issues Legal Waiver to Authorize Unidentified Anomalous Phenomena (UAP) Disclosures to PURSUE",
-      "url": "https://www.war.gov/News/Releases/Release/Article/4600020/department-of-war-issues-legal-waiver-to-authorize-unidentified-anomalous-pheno/",
-      "source": "U.S. Department of War",
-      "source_kind": "official",
-      "published_at": "2026-09-14T13:58:00Z",
       "lang": "en"
     }
   ]
