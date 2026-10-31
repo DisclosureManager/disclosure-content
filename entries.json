@@ -1,6 +1,6 @@
 {
-  "catalog_version": 4,
-  "updated": "2026-10-18",
+  "catalog_version": 5,
+  "updated": "2026-10-27",
   "entries": [
     {
       "id": "roswell-1947",
@@ -3554,8 +3554,8 @@
         "public_record": 2,
         "lasting_impact": 1,
         "evidence_substance": 1,
-        "note": "A binding legal waiver for UAP disclosures to PURSUE; no disclosures have been released yet.",
-        "note_de": "Ein verbindlicher rechtlicher Verzicht für UAP-Angaben gegenüber PURSUE; bisher wurden keine Angaben veröffentlicht."
+        "note": "A binding legal waiver for UAP disclosures to PURSUE; no disclosures have been released yet (as of October 2026).",
+        "note_de": "Ein verbindlicher rechtlicher Verzicht für UAP-Angaben gegenüber PURSUE; bisher wurden keine Angaben veröffentlicht (Stand Oktober 2026)."
       },
       "timeline_context": "Issued days before the sixth PURSUE release.",
       "timeline_context_de": "Erlassen wenige Tage vor der sechsten PURSUE-Freigabe.",
@@ -3625,14 +3625,283 @@
         "note": "Mostly previously public AAWSAP reference documents, with some restored details.",
         "note_de": "Überwiegend bereits öffentliche AAWSAP-Referenzdokumente, mit einigen wiederhergestellten Details."
       },
-      "timeline_context": "Most recent PURSUE release in this catalog (September 2026).",
-      "timeline_context_de": "Jüngste PURSUE-Freigabe in diesem Katalog (September 2026).",
+      "timeline_context": "Sixth PURSUE release (September 2026).",
+      "timeline_context_de": "Sechste PURSUE-Freigabe (September 2026).",
       "tags": [
         "pursue",
         "aawsap",
         "dird",
         "2026",
         "release"
+      ]
+    },
+    {
+      "id": "pursue-release-07-2026",
+      "title": "Seventh PURSUE Release, Led by a 2026 Triangular-Object Report",
+      "title_de": "Siebte PURSUE-Freigabe mit einem Bericht über ein dreieckiges Objekt von 2026",
+      "date": "2026-10-23",
+      "source": "U.S. Department of War",
+      "source_url": "https://www.war.gov/News/Releases/Release/Article/4632058/department-of-war-publishes-seventh-release-of-unidentified-anomalous-phenomena/",
+      "category": "FOIA Release",
+      "summary": "The seventh batch of PURSUE files (28 PDF documents, according to CBS News) is led by two 2026 records on the same kind of sighting: an AARO memorandum for the record and an FBI interview report describing a matte black, low-profile triangular object with a wingspan of roughly nine to fifteen feet seen near a national security site in the western United States. The AARO memo says observers saw it climb, hover and bank into a canyon without sound; date, place and names are redacted, and the memo notes that it reflects the reporter's interpretation. The FBI report compares the object to a delta-wing drone. CBS reported that AARO considers the case worth further investigation because similar shapes and movements were reported elsewhere in the region. Older material includes 1949-1955 Catalina Island reports, a 1957 Air Force intelligence report on a radar contact over Saudi Arabia and a 2010 AAWSAP-era 'Utah Ranch' investigation report.",
+      "summary_de": "Die siebte Tranche der PURSUE-Akten (laut CBS News 28 PDF-Dokumente) wird von zwei Unterlagen aus dem Jahr 2026 zur gleichen Art von Sichtung angeführt: einem AARO-Aktenvermerk und einem FBI-Befragungsbericht über ein mattschwarzes, sehr flaches dreieckiges Objekt mit etwa drei bis viereinhalb Metern Spannweite, gesehen nahe einer Anlage der nationalen Sicherheit im Westen der USA. Laut AARO-Vermerk stieg es lautlos auf, schwebte und flog in einer Kurve in einen Canyon; Datum, Ort und Namen sind geschwärzt, und der Vermerk betont, dass er die Deutung des Meldenden wiedergibt. Der FBI-Bericht vergleicht das Objekt mit einer Deltaflügel-Drohne. Laut CBS hält AARO den Fall für weiter untersuchenswert, weil in der Region ähnliche Formen und Bewegungen gemeldet wurden. Zu den älteren Unterlagen gehören Berichte von Catalina Island (1949–1955), ein Geheimdienstbericht der Air Force von 1957 zu einem Radarkontakt über Saudi-Arabien und ein Untersuchungsbericht zur „Utah Ranch“ aus der AAWSAP-Zeit (2010).",
+      "quotes": [
+        {
+          "speaker": "Sean Parnell, Chief Pentagon Spokesman, release of October 23, 2026",
+          "text": "Today, the Department of War is publishing the seventh release of declassified and historical Unidentified Anomalous Phenomena (UAP) files as part of the Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)."
+        },
+        {
+          "speaker": "AARO memorandum for the record (PURSUE document D176)",
+          "text": "This report reflects the reporter's interpretation at the time of the event."
+        },
+        {
+          "speaker": "AARO memorandum for the record (PURSUE document D176)",
+          "text": "matte black triangular shape of extremely low aspect ratio"
+        }
+      ],
+      "relevance_score": 5,
+      "relevance_breakdown": {
+        "crash_retrievals": {
+          "score": 0,
+          "note": "Not addressed."
+        },
+        "non_human_origin": {
+          "score": 1,
+          "note": "No origin claims; the FBI report compares the object to a drone."
+        },
+        "government_coverup": {
+          "score": 2,
+          "note": "Dates, places and names are heavily redacted."
+        },
+        "technology": {
+          "score": 2,
+          "note": "Witnesses describe silent climbing, hovering and banking; no sensor data released."
+        },
+        "whistleblower_credibility": {
+          "score": 1,
+          "note": "Named-agency records of unnamed witnesses."
+        },
+        "explanation": "A rare recent (2026) case file from AARO and the FBI; redactions and the lack of sensor data limit what it shows.",
+        "explanation_de": "Ein seltener aktueller Fall (2026) aus AARO- und FBI-Akten; Schwärzungen und fehlende Sensordaten begrenzen die Aussagekraft."
+      },
+      "influence_breakdown": {
+        "official_acknowledgement": 2,
+        "oversight_action": 1,
+        "public_record": 2,
+        "lasting_impact": 1,
+        "evidence_substance": 1,
+        "note": "Official tranche led by a 2026 AARO memo and FBI interview report on a triangular object; the key dates and places are redacted and the case is unresolved.",
+        "note_de": "Offizielle Tranche mit einem AARO-Vermerk und einem FBI-Befragungsbericht von 2026 zu einem dreieckigen Objekt; die wichtigsten Daten und Orte sind geschwärzt, der Fall ist ungeklärt."
+      },
+      "timeline_context": "Most recent PURSUE release in this catalog (October 2026).",
+      "timeline_context_de": "Jüngste PURSUE-Freigabe in diesem Katalog (Oktober 2026).",
+      "tags": [
+        "pursue",
+        "release",
+        "2026",
+        "war.gov",
+        "triangle",
+        "fbi",
+        "aaro"
+      ]
+    },
+    {
+      "id": "sefaa-chile-cases-sep-2026",
+      "title": "Chile's SEFAA Publishes Its September 2026 UAP Case Files",
+      "title_de": "Chiles SEFAA veröffentlicht ihre UAP-Fallakten vom September 2026",
+      "date": "2026-10-08",
+      "source": "Sección de Estudios de Fenómenos Aéreos Anómalos (SEFAA), Dirección General de Aeronáutica Civil, Chile",
+      "source_url": "https://sefaa.dgac.gob.cl/2026/10/08/casos-septiembre-2026/",
+      "category": "Agency Report",
+      "summary": "Chile's civil aviation authority (DGAC), through its anomalous aerial phenomena section SEFAA (formerly CEFAA), published 18 closed case files, mostly public reports from late July to late September 2026. In the most prominent case, a photo taken during the Air Force flypast at Santiago's military parade on September 19, SEFAA concluded the object was a small drone; DGAC's operational safety department separately found it had been launched in the restricted airspace set up for the flypast to film footage for social media. A video from Vitacura on September 20 was rated 'possibly resolved' as a low-flying small craft, probably a drone, and air traffic control radar showed nothing matching it. At least two other cases were closed as not investigable because no original images were available. SEFAA says its work depends on original photos, videos and audio.",
+      "summary_de": "Chiles Zivilluftfahrtbehörde DGAC hat über ihre Abteilung für anomale Luftphänomene SEFAA (früher CEFAA) 18 abgeschlossene Fallakten veröffentlicht, überwiegend Meldungen aus der Bevölkerung von Ende Juli bis Ende September 2026. Im bekanntesten Fall – einem Foto vom Überflug der Luftwaffe bei der Militärparade in Santiago am 19. September – kam die SEFAA zu dem Schluss, dass es eine kleine Drohne war; die Abteilung für Betriebssicherheit der DGAC stellte unabhängig davon fest, dass sie im für den Überflug gesperrten Luftraum gestartet worden war, um Aufnahmen für soziale Medien zu machen. Ein Video aus Vitacura vom 20. September wurde als „möglicherweise gelöst“ eingestuft: ein kleines, sehr tief fliegendes Fluggerät, wahrscheinlich eine Drohne; das Radar der Flugsicherung zeigte nichts Passendes. Mindestens zwei weitere Fälle wurden als nicht untersuchbar geschlossen, weil keine Originalaufnahmen vorlagen. Laut SEFAA hängt ihre Arbeit von Originalfotos, -videos und -tonaufnahmen ab.",
+      "quotes": [
+        {
+          "speaker": "SEFAA, case publication page of October 8, 2026",
+          "text": "Nuestras investigaciones se fundamentan en el método científico, por lo que dependen fuertemente de la disponibilidad de registros audiovisuales (audios, fotografías, videos). — English: \"Our investigations are based on the scientific method, so they depend heavily on the availability of audiovisual records (audio, photographs, videos).\" (unofficial translation)"
+        },
+        {
+          "speaker": "SEFAA case file 2288 (Santiago, September 19, 2026)",
+          "text": "Todo lo anterior llevó a la hipótesis de estar frente a una aeronave muy pequeña, de forma similar a un RPA/dron. — English: \"All of the above led to the hypothesis that this was a very small aircraft, similar to an RPA/drone.\" (unofficial translation)"
+        }
+      ],
+      "relevance_score": 3,
+      "relevance_breakdown": {
+        "crash_retrievals": {
+          "score": 0,
+          "note": "Not addressed."
+        },
+        "non_human_origin": {
+          "score": 0,
+          "note": "No origin claims; the resolved cases were drones."
+        },
+        "government_coverup": {
+          "score": 0,
+          "note": "Files are published openly every month."
+        },
+        "technology": {
+          "score": 1,
+          "note": "Forensic photo and video analysis plus radar checks."
+        },
+        "whistleblower_credibility": {
+          "score": 1,
+          "note": "Civilian reports reviewed by a government aviation office."
+        },
+        "explanation": "Shows how a government office closes current reports in the open; none of the cases points to anything anomalous.",
+        "explanation_de": "Zeigt, wie eine Behörde aktuelle Meldungen öffentlich abschließt; keiner der Fälle deutet auf etwas Anomales hin."
+      },
+      "influence_breakdown": {
+        "official_acknowledgement": 1,
+        "oversight_action": 0,
+        "public_record": 2,
+        "lasting_impact": 0,
+        "evidence_substance": 1,
+        "note": "A routine monthly publication of case files by a civil aviation authority; the cases with usable material were explained as drones.",
+        "note_de": "Eine routinemäßige monatliche Veröffentlichung von Fallakten durch eine Luftfahrtbehörde; die Fälle mit verwertbarem Material wurden als Drohnen erklärt."
+      },
+      "timeline_context": "Chile has run an official UAP office since 1997; SEFAA now publishes case files monthly.",
+      "timeline_context_de": "Chile hat seit 1997 eine offizielle UAP-Stelle; die SEFAA veröffentlicht inzwischen monatlich Fallakten.",
+      "tags": [
+        "chile",
+        "sefaa",
+        "dgac",
+        "2026",
+        "drone",
+        "case files"
+      ]
+    },
+    {
+      "id": "bundestag-uap-answer-2026",
+      "title": "German Government Answers Bundestag Question on UAP",
+      "title_de": "Bundesregierung beantwortet Kleine Anfrage zu UAP im Bundestag",
+      "date": "2026-10-16",
+      "source": "Deutscher Bundestag, Drucksache 21/8662 (answer of the Federal Government, submitted by the Federal Ministry of Defence)",
+      "source_url": "https://dserver.bundestag.de/btd/21/086/2108662.pdf",
+      "category": "Other",
+      "summary": "Answering a formal parliamentary question from the AfD parliamentary group (Drucksache 21/8323, dated October 2, 2026), the German federal government said it has no findings on UAP. It listed which ministries share responsibility for monitoring German airspace and near-Earth space, but said there are no specific reporting channels for UAP, no common federal definitions, no reporting figures and no inter-ministry working group. Questions on exchanges with allies were answered only in general terms. The government said it has no plans to revise its procedures and has no responsibilities or rules for detecting objects or signals of possible non-human origin from beyond Earth.",
+      "summary_de": "Auf eine Kleine Anfrage der AfD-Fraktion (Drucksache 21/8323 vom 2. Oktober 2026) antwortete die Bundesregierung, ihr lägen keine Erkenntnisse über UAP vor. Sie nannte die Ministerien, die sich die Überwachung des deutschen Luftraums und des erdnahen Weltraums teilen, erklärte aber, es gebe keine eigenen Meldewege für UAP, keine bundeseinheitlichen Begriffe, keine Meldezahlen und keine ressortübergreifende Arbeitsgruppe. Fragen zum Austausch mit Verbündeten beantwortete sie nur allgemein. Eine Überarbeitung der Verfahren sei nicht geplant; für den Fall möglicher nicht-menschlicher Objekte oder Signale von außerhalb der Erde gebe es keine Zuständigkeiten oder Verfahrensregeln.",
+      "quotes": [
+        {
+          "speaker": "Federal Government of Germany, Drucksache 21/8662 (October 16, 2026)",
+          "text": "Über UAP liegen keine Erkenntnisse vor. — English: \"There are no findings on UAP.\" (unofficial translation)"
+        },
+        {
+          "speaker": "Federal Government of Germany, Drucksache 21/8662 (October 16, 2026)",
+          "text": "Für Meldungen zu UAP existieren keine gesonderten Meldewege. — English: \"There are no separate reporting channels for reports on UAP.\" (unofficial translation)"
+        },
+        {
+          "speaker": "Federal Government of Germany, Drucksache 21/8662 (October 16, 2026)",
+          "text": "Derzeit ist eine Überarbeitung bestehender Verfahren nicht geplant. — English: \"A revision of existing procedures is not currently planned.\" (unofficial translation)"
+        }
+      ],
+      "relevance_score": 4,
+      "relevance_breakdown": {
+        "crash_retrievals": {
+          "score": 0,
+          "note": "Not addressed."
+        },
+        "non_human_origin": {
+          "score": 0,
+          "note": "The government reports no findings on UAP."
+        },
+        "government_coverup": {
+          "score": 1,
+          "note": "Details of exchanges with allies were not disclosed."
+        },
+        "technology": {
+          "score": 0,
+          "note": "Not addressed beyond routine airspace and space surveillance."
+        },
+        "whistleblower_credibility": {
+          "score": 1,
+          "note": "Official government answer to Parliament."
+        },
+        "explanation": "Documents that Germany, unlike the U.S., France or Chile, has no dedicated UAP structure.",
+        "explanation_de": "Hält fest, dass Deutschland – anders als die USA, Frankreich oder Chile – keine eigene UAP-Struktur hat."
+      },
+      "influence_breakdown": {
+        "official_acknowledgement": 1,
+        "oversight_action": 1,
+        "public_record": 1,
+        "lasting_impact": 1,
+        "evidence_substance": 0,
+        "note": "A formal parliamentary answer setting out Germany's position: no specific UAP reporting channels, no inter-ministry body and no plans to create one.",
+        "note_de": "Eine förmliche parlamentarische Antwort, die Deutschlands Haltung festhält: keine eigenen UAP-Meldewege, keine ressortübergreifende Stelle und keine Pläne dafür."
+      },
+      "timeline_context": "Germany's federal UAP position on record; the question cited an earlier government answer (Drucksache 16/9554) saying no UFO files were kept.",
+      "timeline_context_de": "Die Haltung der Bundesregierung zu UAP, schriftlich festgehalten; die Anfrage verwies auf eine frühere Antwort (Drucksache 16/9554), wonach keine UFO-Akten geführt werden.",
+      "tags": [
+        "germany",
+        "bundestag",
+        "2026",
+        "parliament",
+        "reporting"
+      ]
+    },
+    {
+      "id": "uk-mod-typhoon-airprox-2026",
+      "title": "UK Ministry of Defence Answers Question on RAF Typhoon Near-Miss with Unknown Object",
+      "title_de": "Britisches Verteidigungsministerium antwortet auf Frage zu Beinahe-Kollision eines RAF-Typhoon mit unbekanntem Objekt",
+      "date": "2026-10-26",
+      "event_date": "2026-02-23",
+      "source": "UK Parliament, written question UIN 36199 (answered by the Ministry of Defence)",
+      "source_url": "https://questions-statements.parliament.uk/written-questions/detail/2026-10-19/36199",
+      "category": "Other",
+      "summary": "Asked by MP Ben Obese-Jecty what threat assessment had been made after an RAF Typhoon reported a near-miss with an unidentified object off the coast of Humberside on February 23, 2026, defence minister Louise Sandher-Jones said such safety reports do not assess intent, ownership or threat, and that the MoD does not comment on threat assessments. She confirmed the pilot's report and referred to the UK Airprox Board. The Board's April 2026 summary says the pilot, flying at 12,000 feet, saw a circular black object about the size of a car tyre pass roughly 300 feet above, and that the Board could not determine what it was. It judged that safety had been reduced but there was no risk of collision.",
+      "summary_de": "Der Abgeordnete Ben Obese-Jecty fragte, welche Bedrohungsbewertung es gebe, nachdem ein RAF-Typhoon am 23. Februar 2026 vor der Küste von Humberside eine Beinahe-Kollision mit einem unbekannten Objekt gemeldet hatte. Louise Sandher-Jones, Ministerin im britischen Verteidigungsministerium, antwortete, solche Sicherheitsmeldungen bewerteten weder Absicht noch Herkunft oder Bedrohung, und das Ministerium äußere sich nicht zu Bedrohungsbewertungen. Sie bestätigte den Pilotenbericht und verwies auf das UK Airprox Board. Dessen Zusammenfassung vom April 2026: Der Pilot sah in rund 3.700 Metern Höhe ein kreisrundes schwarzes Objekt etwa von der Größe eines Autoreifens rund 90 Meter über sich vorbeiziehen; das Board konnte nicht feststellen, was es war. Die Sicherheit sei verringert gewesen, Kollisionsgefahr habe aber nicht bestanden.",
+      "quotes": [
+        {
+          "speaker": "Louise Sandher-Jones, UK Ministry of Defence, written answer of October 26, 2026",
+          "text": "DASORs are not intended to provide assessments of intent, ownership, attribution, or threat."
+        },
+        {
+          "speaker": "UK Airprox Board, summary of Airprox 2026014 (April 2026)",
+          "text": "In the Board's opinion the reported altitude and/or description of the object were such that they were unable to determine the nature of the unknown object."
+        }
+      ],
+      "relevance_score": 3,
+      "relevance_breakdown": {
+        "crash_retrievals": {
+          "score": 0,
+          "note": "Not addressed."
+        },
+        "non_human_origin": {
+          "score": 0,
+          "note": "No origin claims; the question itself calls it a drone."
+        },
+        "government_coverup": {
+          "score": 1,
+          "note": "The MoD declines to comment on threat assessments."
+        },
+        "technology": {
+          "score": 1,
+          "note": "Pilot sighting only; no radar or imagery published."
+        },
+        "whistleblower_credibility": {
+          "score": 2,
+          "note": "Military pilot report reviewed by an independent safety board."
+        },
+        "explanation": "An officially confirmed military-pilot encounter with an unidentified object; small, but on the parliamentary record.",
+        "explanation_de": "Eine amtlich bestätigte Begegnung eines Militärpiloten mit einem unbekannten Objekt; klein, aber im Parlamentsprotokoll."
+      },
+      "influence_breakdown": {
+        "official_acknowledgement": 1,
+        "oversight_action": 1,
+        "public_record": 1,
+        "lasting_impact": 0,
+        "evidence_substance": 1,
+        "note": "A ministerial answer to Parliament that confirms the pilot report and points to the Airprox Board finding; it adds no new threat assessment.",
+        "note_de": "Eine Ministerantwort an das Parlament, die den Pilotenbericht bestätigt und auf das Ergebnis des Airprox Board verweist; eine neue Bedrohungsbewertung enthält sie nicht."
+      },
+      "timeline_context": "The UK MoD stopped investigating UFO reports in 2009; unknown objects now surface mainly through Airprox Board reports and parliamentary questions.",
+      "timeline_context_de": "Das britische Verteidigungsministerium untersucht UFO-Meldungen seit 2009 nicht mehr; unbekannte Objekte tauchen heute vor allem in Berichten des Airprox Board und in parlamentarischen Anfragen auf.",
+      "tags": [
+        "uk",
+        "mod",
+        "raf",
+        "typhoon",
+        "airprox",
+        "2026"
       ]
     }
   ]
