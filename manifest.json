@@ -1,6 +1,8 @@
 {
-  "catalog_version": 4,
-  "updated": "2026-10-18",
+  "catalog_version": 5,
+  "updated": "2026-10-27",
   "entries": "entries.json",
-  "glossary": "glossary.json"
+  "glossary": "glossary.json",
+  "pins": "pins.json",
+  "pins_version": 2
 }

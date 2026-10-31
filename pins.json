@@ -1,0 +1,643 @@
+{
+  "schema_version": 1,
+  "pins_version": 2,
+  "updated": "2026-10-27",
+  "pins": [
+    {
+      "id": "arnold-1947",
+      "title": {
+        "en": "Kenneth Arnold Sighting",
+        "de": "Sichtung von Kenneth Arnold"
+      },
+      "date": "1947-06-24",
+      "location": {
+        "en": "Near Mount Rainier, Washington, USA",
+        "de": "Bei Mount Rainier, Washington, USA"
+      },
+      "lat": 46.8523,
+      "lon": -121.7603,
+      "summary": {
+        "en": "Private pilot Kenneth Arnold reported nine bright, fast objects flying in a line near Mount Rainier. Newspaper coverage of his description popularised the term 'flying saucer' and set off the 1947 wave of reports. Air Force and FBI files hold his account; no firm identification was ever made, and later reviews suggested aircraft, birds or mirage effects.",
+        "de": "Der Privatpilot Kenneth Arnold meldete neun helle, schnelle Objekte, die in einer Reihe nahe dem Mount Rainier flogen. Die Presseberichte über seine Schilderung machten den Begriff „fliegende Untertasse“ populär und lösten die Meldewelle von 1947 aus. Seine Aussage liegt in Akten der Luftwaffe und des FBI; eine sichere Erklärung gab es nie, spätere Prüfungen nannten Flugzeuge, Vögel oder Luftspiegelungen."
+      },
+      "strength": "medium",
+      "sources": [
+        {
+          "title": "National Archives (NARA): Project Blue Book records",
+          "url": "https://www.archives.gov/research/military/air-force/ufos"
+        },
+        {
+          "title": "FBI Vault: UFO file",
+          "url": "https://vault.fbi.gov/UFO"
+        }
+      ]
+    },
+    {
+      "id": "roswell-1947",
+      "title": {
+        "en": "Roswell Debris Recovery",
+        "de": "Roswell: Fund von Trümmern"
+      },
+      "date": "1947-07-08",
+      "location": {
+        "en": "Roswell Army Air Field, New Mexico, USA",
+        "de": "Roswell Army Air Field, New Mexico, USA"
+      },
+      "lat": 33.3016,
+      "lon": -104.5306,
+      "summary": {
+        "en": "The Roswell base press office announced it had recovered a 'flying disc' from a ranch, and the Army Air Forces described the material as a weather balloon the next day. A 1995 GAO audit found that many base records from the period had been destroyed. Air Force reports in 1994 and 1997 traced the debris to a Project Mogul balloon train and the later 'bodies' stories to test dummies and unrelated accidents.",
+        "de": "Die Pressestelle des Stützpunkts Roswell meldete die Bergung einer „fliegenden Scheibe“ von einer Ranch; am nächsten Tag beschrieb die Luftwaffe das Material als Wetterballon. Eine Prüfung des US-Rechnungshofs (GAO) stellte 1995 fest, dass viele Akten des Stützpunkts aus dieser Zeit vernichtet worden waren. Berichte der Air Force von 1994 und 1997 führten die Trümmer auf einen Ballonzug des Projekts Mogul zurück und die späteren Erzählungen über „Leichen“ auf Testpuppen und andere Unfälle."
+      },
+      "strength": "strong",
+      "sources": [
+        {
+          "title": "U.S. GAO: Results of a Search for Records Concerning the 1947 Crash Near Roswell (NSIAD-95-187)",
+          "url": "https://www.gao.gov/products/nsiad-95-187"
+        },
+        {
+          "title": "U.S. Air Force: The Roswell Report",
+          "url": "https://www.af.mil/The-Roswell-Report/"
+        },
+        {
+          "title": "FBI Vault: Roswell UFO",
+          "url": "https://vault.fbi.gov/Roswell%20UFO"
+        }
+      ],
+      "entry_id": "roswell-1947"
+    },
+    {
+      "id": "washington-1952",
+      "title": {
+        "en": "Washington, D.C. Radar Sightings",
+        "de": "Radarsichtungen über Washington, D.C."
+      },
+      "date": "1952-07-19/1952-07-27",
+      "location": {
+        "en": "Washington National Airport, Washington, D.C., USA",
+        "de": "Washington National Airport, Washington, D.C., USA"
+      },
+      "lat": 38.8512,
+      "lon": -77.0402,
+      "summary": {
+        "en": "On two weekends in July 1952, air traffic radar at Washington National Airport and Andrews AFB tracked unexplained targets, and pilots and controllers reported lights; jet interceptors found nothing definite. At a Pentagon press conference the Air Force attributed the returns mainly to temperature inversions. The CIA later wrote that this wave led to its review of the subject and the 1953 Robertson Panel.",
+        "de": "An zwei Wochenenden im Juli 1952 erfassten die Radargeräte am Washington National Airport und auf der Andrews AFB unerklärte Ziele, Piloten und Fluglotsen meldeten Lichter; Abfangjäger fanden nichts Eindeutiges. Auf einer Pressekonferenz im Pentagon erklärte die Luftwaffe die Echos vor allem mit Temperaturinversionen. Die CIA schrieb später, diese Welle habe ihre Prüfung des Themas und das Robertson-Panel von 1953 ausgelöst."
+      },
+      "strength": "strong",
+      "sources": [
+        {
+          "title": "CIA, Studies in Intelligence: CIA's Role in the Study of UFOs, 1947–90",
+          "url": "https://www.cia.gov/resources/csi/studies-in-intelligence/archives/vol-40-no-5/the-cias-role-in-the-study-of-ufos-1947-90/"
+        },
+        {
+          "title": "National Archives Catalog: Project Blue Book case files",
+          "url": "https://catalog.archives.gov/id/595553"
+        }
+      ],
+      "entry_id": "washington-radar-1952"
+    },
+    {
+      "id": "lakenheath-1956",
+      "title": {
+        "en": "Lakenheath–Bentwaters Radar-Visual Case",
+        "de": "Radar- und Sichtfall Lakenheath–Bentwaters"
+      },
+      "date": "1956-08-13/1956-08-14",
+      "location": {
+        "en": "RAF Lakenheath, Suffolk, England, UK",
+        "de": "RAF Lakenheath, Suffolk, England, Großbritannien"
+      },
+      "lat": 52.4093,
+      "lon": 0.561,
+      "summary": {
+        "en": "Ground radar at RAF Bentwaters and RAF Lakenheath tracked fast-moving targets over a night in August 1956, and an RAF night fighter was sent to intercept. The University of Colorado study (Condon Report, 1969) called it one of the most puzzling radar-visual cases in its files and did not find a conventional explanation. Later analysts proposed anomalous radar propagation and misidentified stars for parts of the event.",
+        "de": "Bodenradare in RAF Bentwaters und RAF Lakenheath verfolgten in einer Augustnacht 1956 schnelle Ziele; ein Nachtjäger der RAF wurde zum Abfangen geschickt. Die Studie der University of Colorado (Condon-Bericht, 1969) zählte den Fall zu den rätselhaftesten Radar- und Sichtfällen ihrer Sammlung und fand keine herkömmliche Erklärung. Spätere Analysen nannten für Teile des Ereignisses ungewöhnliche Radarausbreitung und verwechselte Sterne."
+      },
+      "strength": "medium",
+      "sources": [
+        {
+          "title": "Condon Report (1969), Case 2 (NCAS online text)",
+          "url": "https://condon.ncas.org/text/case02.htm"
+        },
+        {
+          "title": "National Archives (NARA): Project Blue Book records",
+          "url": "https://www.archives.gov/research/military/air-force/ufos"
+        }
+      ]
+    },
+    {
+      "id": "socorro-1964",
+      "title": {
+        "en": "Socorro Landing Report (Lonnie Zamora)",
+        "de": "Landungsmeldung von Socorro (Lonnie Zamora)"
+      },
+      "date": "1964-04-24",
+      "location": {
+        "en": "Socorro, New Mexico, USA",
+        "de": "Socorro, New Mexico, USA"
+      },
+      "lat": 34.048,
+      "lon": -106.902,
+      "summary": {
+        "en": "Police officer Lonnie Zamora reported a white, egg-shaped object on the ground with two small figures nearby, which then rose with a roar and flame. Investigators recorded ground marks and burned brush at the site, and the FBI also recorded his account. Project Blue Book kept the case as 'unidentified'; suggested explanations included a test vehicle or a hoax, but none was confirmed.",
+        "de": "Polizist Lonnie Zamora meldete ein weißes, eiförmiges Objekt am Boden mit zwei kleinen Gestalten daneben, das dann mit Getöse und Flamme aufstieg. Ermittler dokumentierten Bodenabdrücke und verbranntes Gestrüpp, auch das FBI nahm seine Aussage auf. Project Blue Book führte den Fall als „nicht identifiziert“; vorgeschlagene Erklärungen wie ein Testgerät oder ein Scherz wurden nie bestätigt."
+      },
+      "strength": "medium",
+      "sources": [
+        {
+          "title": "National Archives Catalog: Project Blue Book case files",
+          "url": "https://catalog.archives.gov/id/595553"
+        },
+        {
+          "title": "FBI Vault: UFO file",
+          "url": "https://vault.fbi.gov/UFO"
+        }
+      ]
+    },
+    {
+      "id": "shag-harbour-1967",
+      "title": {
+        "en": "Shag Harbour Incident",
+        "de": "Vorfall von Shag Harbour"
+      },
+      "date": "1967-10-04",
+      "location": {
+        "en": "Shag Harbour, Nova Scotia, Canada",
+        "de": "Shag Harbour, Nova Scotia, Kanada"
+      },
+      "lat": 43.495,
+      "lon": -65.714,
+      "summary": {
+        "en": "Residents and RCMP officers reported a row of lights that descended into the sea off Shag Harbour. A search by the RCMP, fishing boats, the Coast Guard and navy divers found only patches of foam. Canadian military records logged the report without identifying an aircraft or other source.",
+        "de": "Anwohner und RCMP-Beamte meldeten eine Reihe von Lichtern, die vor Shag Harbour ins Meer sank. Eine Suche durch die RCMP, Fischerboote, die Küstenwache und Marinetaucher fand nur Schaumflecken. Kanadische Militärakten verzeichneten die Meldung, ohne ein Flugzeug oder eine andere Quelle zu benennen."
+      },
+      "strength": "medium",
+      "sources": [
+        {
+          "title": "Library and Archives Canada: UFO records",
+          "url": "https://recherche-research.bac-lac.gc.ca/eng/public/list/43130"
+        }
+      ]
+    },
+    {
+      "id": "tehran-1976",
+      "title": {
+        "en": "Tehran F-4 Intercept",
+        "de": "Abfangeinsatz über Teheran"
+      },
+      "date": "1976-09-19",
+      "location": {
+        "en": "Tehran, Iran",
+        "de": "Teheran, Iran"
+      },
+      "lat": 35.6892,
+      "lon": 51.389,
+      "summary": {
+        "en": "After residents reported a bright light, the Imperial Iranian Air Force sent two F-4 jets; the crews reported losing instruments and radio as they closed in, and seeing smaller lights separate from the object. A US defense attaché report on the night was distributed to US agencies and later released under FOIA. No official explanation was issued; later analyses pointed to Jupiter and equipment faults.",
+        "de": "Nach Meldungen von Anwohnern über ein helles Licht schickte die iranische Luftwaffe zwei F-4-Jets; die Besatzungen berichteten von Ausfällen der Instrumente und des Funks bei der Annäherung und von kleineren Lichtern, die sich vom Objekt lösten. Ein Bericht des US-Verteidigungsattachés wurde an US-Behörden verteilt und später per FOIA freigegeben. Eine amtliche Erklärung gab es nicht; spätere Analysen nannten den Jupiter und technische Störungen."
+      },
+      "strength": "strong",
+      "sources": [
+        {
+          "title": "U.S. Department of Defense: declassified report on the 1976 Tehran incident (PDF)",
+          "url": "https://media.defense.gov/2021/Jul/13/2002761354/-1/-1/0/JOINT_CHIEFS_STAFF_REPORT.PDF"
+        },
+        {
+          "title": "NSA: declassified routing slip on the Iran sighting (PDF)",
+          "url": "https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/routing_slip_ufo_iran.pdf"
+        }
+      ]
+    },
+    {
+      "id": "valentich-1978",
+      "title": {
+        "en": "Valentich Disappearance over Bass Strait",
+        "de": "Verschwinden von Valentich über der Bass-Straße"
+      },
+      "date": "1978-10-21",
+      "location": {
+        "en": "Bass Strait off Cape Otway, Victoria, Australia",
+        "de": "Bass-Straße vor Cape Otway, Victoria, Australien"
+      },
+      "lat": -38.86,
+      "lon": 143.51,
+      "summary": {
+        "en": "Pilot Frederick Valentich, flying a Cessna 182 to King Island, told Melbourne air traffic control that a large object with lights was moving around his aircraft, and then contact was lost. No trace of the aircraft or pilot was found despite a large search. The Department of Transport investigation concluded that the reason for the disappearance could not be determined.",
+        "de": "Der Pilot Frederick Valentich meldete auf dem Flug mit einer Cessna 182 nach King Island der Flugsicherung Melbourne, ein großes Objekt mit Lichtern bewege sich um sein Flugzeug; danach brach der Kontakt ab. Trotz großer Suche wurden weder Flugzeug noch Pilot gefunden. Die Untersuchung des Verkehrsministeriums kam zu dem Schluss, dass der Grund für das Verschwinden nicht festgestellt werden konnte."
+      },
+      "strength": "medium",
+      "sources": [
+        {
+          "title": "National Archives of Australia: VH-DSJ aircraft missing file (Valentich)",
+          "url": "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=10491375"
+        },
+        {
+          "title": "ABC News (Australia): The disappearance of Frederick Valentich",
+          "url": "https://www.abc.net.au/news/2016-07-07/disappearance-frederick-valentich-inspired-kettering-incident/7576428"
+        }
+      ]
+    },
+    {
+      "id": "kaikoura-1978",
+      "title": {
+        "en": "Kaikoura Lights",
+        "de": "Lichter von Kaikoura"
+      },
+      "date": "1978-12-21/1978-12-31",
+      "location": {
+        "en": "Off Kaikoura, South Island, New Zealand",
+        "de": "Vor Kaikoura, Südinsel, Neuseeland"
+      },
+      "lat": -42.4,
+      "lon": 173.68,
+      "summary": {
+        "en": "Crews of cargo flights along the east coast of the South Island reported unusual lights, Wellington radar logged unexplained returns, and a TV crew filmed lights on a later flight. The RNZAF investigated, and its report proposed conventional causes such as boat lights reflected by cloud, the planet Venus and atmospheric effects. The files were released by the New Zealand Defence Force in 2010.",
+        "de": "Besatzungen von Frachtflügen entlang der Ostküste der Südinsel meldeten ungewöhnliche Lichter, das Radar in Wellington verzeichnete unerklärte Echos, und ein Fernsehteam filmte auf einem späteren Flug Lichter. Die neuseeländische Luftwaffe ermittelte; ihr Bericht nannte herkömmliche Ursachen wie von Wolken reflektierte Bootslichter, den Planeten Venus und atmosphärische Effekte. Die Akten gab die neuseeländische Armee 2010 frei."
+      },
+      "strength": "medium",
+      "sources": [
+        {
+          "title": "New Zealand Defence Force: OIA release on UAP and UFOs (PDF)",
+          "url": "https://www.nzdf.mil.nz/assets/Uploads/DocumentLibrary/OIA-2024-5048-UAP-and-UFOs.pdf"
+        },
+        {
+          "title": "Internet Archive: New Zealand Defence Force UFO files",
+          "url": "https://archive.org/details/NewZealandUFO"
+        },
+        {
+          "title": "BBC News: New Zealand releases UFO files",
+          "url": "https://www.bbc.com/news/world-asia-pacific-12057314"
+        }
+      ]
+    },
+    {
+      "id": "rendlesham-1980",
+      "title": {
+        "en": "Rendlesham Forest Incident",
+        "de": "Vorfall im Rendlesham Forest"
+      },
+      "date": "1980-12-26/1980-12-28",
+      "location": {
+        "en": "Rendlesham Forest, Suffolk, England, UK",
+        "de": "Rendlesham Forest, Suffolk, England, Großbritannien"
+      },
+      "lat": 52.0897,
+      "lon": 1.4366,
+      "summary": {
+        "en": "US Air Force personnel at RAF Woodbridge reported lights and a possible craft in the forest on two nights, and deputy base commander Charles Halt sent a memo to the UK Ministry of Defence. The MoD concluded the reports had no defence significance. Common explanations include the Orford Ness lighthouse, bright stars and a fireball; the file is open at The National Archives.",
+        "de": "Angehörige der US-Luftwaffe auf RAF Woodbridge meldeten in zwei Nächten Lichter und ein mögliches Fluggerät im Wald; der stellvertretende Kommandant Charles Halt schickte ein Memo an das britische Verteidigungsministerium. Das Ministerium sah darin keine Bedeutung für die Verteidigung. Gängige Erklärungen sind der Leuchtturm von Orford Ness, helle Sterne und ein Feuerball; die Akte ist in den National Archives einsehbar."
+      },
+      "strength": "strong",
+      "sources": [
+        {
+          "title": "The National Archives (UK): Rendlesham Forest file",
+          "url": "https://discovery.nationalarchives.gov.uk/details/r/C11483093"
+        },
+        {
+          "title": "The National Archives (UK): UFO reports",
+          "url": "https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/"
+        }
+      ],
+      "entry_id": "rendlesham-1980"
+    },
+    {
+      "id": "trans-en-provence-1981",
+      "title": {
+        "en": "Trans-en-Provence Landing Trace",
+        "de": "Landespur von Trans-en-Provence"
+      },
+      "date": "1981-01-08",
+      "location": {
+        "en": "Trans-en-Provence, Var, France",
+        "de": "Trans-en-Provence, Var, Frankreich"
+      },
+      "lat": 43.5038,
+      "lon": 6.4867,
+      "summary": {
+        "en": "A resident reported a small grey, saucer-shaped object that landed briefly on his property and left a circular mark on the ground. The Gendarmerie and the French space agency's UAP unit (GEPAN, now GEIPAN) took soil and plant samples, and labs found compaction, heating and plant changes. GEIPAN classifies the case as 'D': unexplained after investigation.",
+        "de": "Ein Anwohner meldete ein kleines, graues, scheibenförmiges Objekt, das kurz auf seinem Grundstück landete und eine kreisförmige Spur hinterließ. Die Gendarmerie und die UAP-Stelle der französischen Raumfahrtagentur (GEPAN, heute GEIPAN) nahmen Boden- und Pflanzenproben; Labore fanden Verdichtung, Erhitzung und Veränderungen an den Pflanzen. GEIPAN stuft den Fall als „D“ ein: nach Untersuchung unerklärt."
+      },
+      "strength": "strong",
+      "sources": [
+        {
+          "title": "CNES GEIPAN: case 1981-01-00849 (Trans-en-Provence)",
+          "url": "https://www.cnes-geipan.fr/fr/cas/1981-01-00849"
+        },
+        {
+          "title": "CNES GEIPAN: Note technique n° 16 (PDF)",
+          "url": "https://www.cnes-geipan.fr/sites/default/files/note_tech_16.pdf"
+        }
+      ]
+    },
+    {
+      "id": "hessdalen-1981",
+      "title": {
+        "en": "Hessdalen Lights",
+        "de": "Lichter von Hessdalen"
+      },
+      "date": "1981-12/1984-12",
+      "location": {
+        "en": "Hessdalen valley, Trøndelag, Norway",
+        "de": "Hessdalen-Tal, Trøndelag, Norwegen"
+      },
+      "lat": 62.79,
+      "lon": 11.19,
+      "summary": {
+        "en": "From late 1981 residents of the Hessdalen valley reported many unexplained lights, sometimes several a week. A 1984 field campaign and an automated station run since 1998 by Østfold University College have recorded the lights with cameras, radar and spectrometers. Scientists treat them as an unexplained natural atmospheric phenomenon; proposed mechanisms include plasma and dust combustion.",
+        "de": "Ab Ende 1981 meldeten Bewohner des Hessdalen-Tals zahlreiche unerklärte Lichter, zeitweise mehrere pro Woche. Eine Messkampagne 1984 und eine seit 1998 von der Hochschule Østfold betriebene automatische Station haben die Lichter mit Kameras, Radar und Spektrometern erfasst. Forschende behandeln sie als ungeklärtes natürliches Phänomen der Atmosphäre; diskutiert werden etwa Plasma und brennender Staub."
+      },
+      "strength": "medium",
+      "sources": [
+        {
+          "title": "Østfold University College: atmospheric physics research group",
+          "url": "https://www.hiof.no/iio/english/research/groups/atmosphere-physics/"
+        },
+        {
+          "title": "Project Hessdalen",
+          "url": "https://www.hessdalen.org/"
+        }
+      ]
+    },
+    {
+      "id": "jal1628-1986",
+      "title": {
+        "en": "Japan Air Lines Flight 1628",
+        "de": "Japan-Air-Lines-Flug 1628"
+      },
+      "date": "1986-11-17",
+      "location": {
+        "en": "Over north-eastern Alaska, USA",
+        "de": "Über dem Nordosten Alaskas, USA"
+      },
+      "lat": 66.5647,
+      "lon": -145.2739,
+      "summary": {
+        "en": "The crew of a JAL Boeing 747 cargo flight reported large lights pacing their aircraft over Alaska for about 50 minutes, and controllers briefly saw an extra radar return. The FAA released its investigation file, which includes tapes, interviews and radar data. The FAA concluded the extra radar return was most likely a split image of the 747 itself and did not identify the lights.",
+        "de": "Die Besatzung eines Boeing-747-Frachtflugs der JAL meldete über Alaska etwa 50 Minuten lang große Lichter, die das Flugzeug begleiteten; Fluglotsen sahen zeitweise ein zusätzliches Radarecho. Die FAA veröffentlichte ihre Ermittlungsakte mit Tonbändern, Befragungen und Radardaten. Sie hielt das zusätzliche Echo höchstwahrscheinlich für ein geteiltes Bild der 747 selbst und identifizierte die Lichter nicht."
+      },
+      "strength": "strong",
+      "sources": [
+        {
+          "title": "National Archives Catalog: FAA records on JAL Flight 1628",
+          "url": "https://catalog.archives.gov/id/733667"
+        },
+        {
+          "title": "National Archives: FAA JAL 1628 file (PDF)",
+          "url": "https://nara-media.s3.amazonaws.com/seattle/rg-237/733667/box_1/733667-001-024/733667-001-024.pdf"
+        }
+      ]
+    },
+    {
+      "id": "belgian-wave-1989",
+      "title": {
+        "en": "Belgian UFO Wave",
+        "de": "Belgische UFO-Welle"
+      },
+      "date": "1989-11-29/1990-03-31",
+      "location": {
+        "en": "Eupen and eastern Belgium",
+        "de": "Eupen und Ostbelgien"
+      },
+      "lat": 50.63,
+      "lon": 6.036,
+      "summary": {
+        "en": "Thousands of people, including police officers, reported large triangular craft with lights over Belgium in the winter of 1989–90. On 30–31 March 1990 the Belgian Air Force scrambled two F-16s that briefly locked onto radar targets but saw nothing; the Air Force said it could not identify the phenomena. Later reviews attributed the radar locks to interference and artefacts, and a well-known photo from the wave was admitted to be a hoax in 2011.",
+        "de": "Im Winter 1989/90 meldeten Tausende Menschen, darunter Polizisten, große dreieckige Flugkörper mit Lichtern über Belgien. In der Nacht vom 30. auf den 31. März 1990 ließ die belgische Luftwaffe zwei F-16 aufsteigen, die kurz Radarziele erfassten, aber nichts sahen; die Luftwaffe konnte die Phänomene nicht identifizieren. Spätere Prüfungen führten die Radarerfassungen auf Störungen und Artefakte zurück, ein bekanntes Foto der Welle wurde 2011 als Fälschung eingeräumt."
+      },
+      "strength": "weak",
+      "sources": [
+        {
+          "title": "SOBEPS/COBEPS: The Belgian wave (PDF)",
+          "url": "https://www.cobeps.org/pdf/belgian_wave_130310.pdf"
+        }
+      ],
+      "entry_id": "belgian-wave-1990"
+    },
+    {
+      "id": "calvine-1990",
+      "title": {
+        "en": "Calvine Photograph",
+        "de": "Calvine-Foto"
+      },
+      "date": "1990-08-04",
+      "location": {
+        "en": "Calvine, Perthshire, Scotland, UK",
+        "de": "Calvine, Perthshire, Schottland, Großbritannien"
+      },
+      "lat": 56.77,
+      "lon": -3.98,
+      "summary": {
+        "en": "Two men reportedly photographed a large diamond-shaped object above the hills near Calvine, with a military jet nearby, and the negatives reached the Ministry of Defence. MoD photo specialists examined the images without publishing a conclusion, and the ministry says it no longer holds them; its surviving papers are in file DEFE 24/1940/1. A print kept by a former RAF press officer was published in 2022 and studied at Sheffield Hallam University.",
+        "de": "Zwei Männer sollen über den Hügeln bei Calvine ein großes rautenförmiges Objekt fotografiert haben, mit einem Militärjet in der Nähe; die Negative gingen an das britische Verteidigungsministerium. Fotofachleute des Ministeriums untersuchten die Bilder, ohne ein Ergebnis zu veröffentlichen, und das Ministerium besitzt sie nach eigener Aussage nicht mehr; die erhaltenen Papiere liegen in der Akte DEFE 24/1940/1. Ein Abzug, den ein früherer RAF-Pressesprecher aufbewahrt hatte, wurde 2022 veröffentlicht und an der Sheffield Hallam University untersucht."
+      },
+      "strength": "medium",
+      "sources": [
+        {
+          "title": "The National Archives (UK): Calvine file (DEFE 24/1940/1)",
+          "url": "https://discovery.nationalarchives.gov.uk/details/r/C10130124"
+        },
+        {
+          "title": "Sheffield Hallam University: photographic analysis of the Calvine photo (PDF)",
+          "url": "https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf"
+        }
+      ]
+    },
+    {
+      "id": "varginha-1996",
+      "title": {
+        "en": "Varginha Incident",
+        "de": "Vorfall von Varginha"
+      },
+      "date": "1996-01-20",
+      "location": {
+        "en": "Varginha, Minas Gerais, Brazil",
+        "de": "Varginha, Minas Gerais, Brasilien"
+      },
+      "lat": -21.5514,
+      "lon": -45.4303,
+      "summary": {
+        "en": "On 20 January 1996 Kátia Xavier and two teenage sisters said they saw a red-eyed creature in Varginha and never changed their account; residents reported army and fire-brigade vehicles at the Regional and Humanitas hospitals. Ufologists and the 2022 film Moment of Contact link military police officer Marco Eli Chereze's death to the creature; the official report gave pneumonia with generalised infection. In 2026 neurologist Ítalo Venturelli told TV Globo he saw a non-human being in a hospital bed; a former soldier and a firefighter now call their accounts false. The army called its troop movements routine; its 1997 inquiry, held by the Superior Military Court, said the women saw a local man, which they reject; the case remains disputed.",
+        "de": "Am 20. Januar 1996 berichteten Kátia Xavier und zwei jugendliche Schwestern von einem Wesen mit roten Augen in Varginha und haben ihren Bericht nie geändert; Anwohner meldeten Fahrzeuge von Armee und Feuerwehr an den Krankenhäusern Regional und Humanitas. Ufologen und der Film Moment of Contact (2022) bringen den Tod des Militärpolizisten Marco Eli Chereze mit dem Wesen in Verbindung; der amtliche Bericht nannte eine Lungenentzündung mit generalisierter Infektion. 2026 sagte der Neurologe Ítalo Venturelli bei TV Globo, er habe ein nicht menschliches Wesen in einem Krankenhausbett gesehen; ein ehemaliger Soldat und ein Feuerwehrmann nennen ihre Aussagen inzwischen erfunden. Die Armee nannte ihre Truppenbewegungen Routine; ihre Untersuchung von 1997, deren Akte beim Obersten Militärgericht liegt, kam zu dem Schluss, die Frauen hätten einen Mann aus dem Ort gesehen, was sie zurückweisen; der Fall bleibt umstritten."
+      },
+      "strength": "medium",
+      "sources": [
+        {
+          "title": "Superior Tribunal Militar (Brazil): Inquérito Policial Militar n.º 18/1997",
+          "url": "https://arquimedes.stm.jus.br/index.php/inquerito-policial-militar-n-18-1997"
+        },
+        {
+          "title": "g1 (Globo): ET de Varginha: caso completa 20 anos com mistérios e incertezas (20 Jan 2016)",
+          "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2016/01/et-de-varginha-caso-completa-20-anos-com-misterios-e-incertezas.html"
+        },
+        {
+          "title": "g1 (Globo): ET de Varginha, 30 anos: o que se sabe e o que nunca foi explicado (20 Jan 2026)",
+          "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/01/20/et-de-varginha-30-anos-o-que-se-sabe-e-o-que-nunca-foi-explicado-sobre-o-caso.ghtml"
+        },
+        {
+          "title": "g1 (Globo): Neurologist says a colleague filmed surgery on a 'strange being' in a Varginha hospital (6 Jan 2026)",
+          "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/01/06/et-de-varginha-apos-30-anos-medico-afirma-que-colega-filmou-cirurgia-em-ser-estranho-dentro-de-hospital.ghtml"
+        },
+        {
+          "title": "New York Post: report on James Fox's documentary 'Moment of Contact' (29 Oct 2022)",
+          "url": "https://nypost.com/2022/10/29/people-saw-aliens-after-ufo-crashed-in-brazil-in-1996-doc/"
+        }
+      ]
+    },
+    {
+      "id": "phoenix-lights-1997",
+      "title": {
+        "en": "Phoenix Lights",
+        "de": "Lichter von Phoenix"
+      },
+      "date": "1997-03-13",
+      "location": {
+        "en": "Phoenix, Arizona, USA",
+        "de": "Phoenix, Arizona, USA"
+      },
+      "lat": 33.4484,
+      "lon": -112.074,
+      "summary": {
+        "en": "Thousands of people across Arizona reported a V-shaped formation of lights in the early evening and a row of hovering lights later that night. In July 1997 the Maryland Air National Guard said its A-10 aircraft had dropped flares over the Barry M. Goldwater Range that evening, which is the usual explanation for the later lights. The earlier formation is often attributed to aircraft in formation; no single official investigation covered both events.",
+        "de": "Tausende Menschen in Arizona meldeten am frühen Abend eine V-förmige Lichterformation und später in der Nacht eine Reihe schwebender Lichter. Im Juli 1997 teilte die Nationalgarde von Maryland mit, ihre A-10-Flugzeuge hätten an diesem Abend über dem Barry-M.-Goldwater-Übungsgelände Leuchtkörper abgeworfen; das gilt als übliche Erklärung für die späteren Lichter. Die frühere Formation wird oft Flugzeugen im Verband zugeschrieben; eine amtliche Untersuchung beider Ereignisse gab es nicht."
+      },
+      "strength": "weak",
+      "sources": [
+        {
+          "title": "Las Vegas Sun (AP): Military now says flares may be cause of mysterious lights",
+          "url": "https://lasvegassun.com/news/1997/jul/25/military-now-says-flares-may-be-cause-of-mysteriou/"
+        },
+        {
+          "title": "Los Angeles Times (1997): Air National Guard flares",
+          "url": "https://www.latimes.com/archives/la-xpm-1997-jul-26-mn-16516-story.html"
+        }
+      ],
+      "entry_id": "phoenix-lights-1997"
+    },
+    {
+      "id": "campeche-2004",
+      "title": {
+        "en": "Campeche Infrared Video",
+        "de": "Infrarotvideo von Campeche"
+      },
+      "date": "2004-03-05",
+      "location": {
+        "en": "Over Campeche, Mexico",
+        "de": "Über Campeche, Mexiko"
+      },
+      "lat": 19.0,
+      "lon": -91.5,
+      "summary": {
+        "en": "The crew of a Mexican Air Force anti-drug patrol aircraft recorded about a dozen bright objects on its infrared camera that were not visible to the eye. The Defence Ministry (SEDENA) passed the footage to a journalist, who released it in May 2004. Researchers later matched the objects to gas flares on offshore oil platforms in the Bay of Campeche.",
+        "de": "Die Besatzung eines Anti-Drogen-Patrouillenflugzeugs der mexikanischen Luftwaffe zeichnete mit der Infrarotkamera etwa ein Dutzend helle Objekte auf, die mit bloßem Auge nicht sichtbar waren. Das Verteidigungsministerium (SEDENA) übergab das Material einem Journalisten, der es im Mai 2004 veröffentlichte. Fachleute ordneten die Objekte später Gasfackeln auf Ölplattformen in der Bucht von Campeche zu."
+      },
+      "strength": "weak",
+      "sources": [
+        {
+          "title": "NBC News: Mexican Air Force pilots film UFOs",
+          "url": "https://www.nbcnews.com/id/wbna4955164"
+        },
+        {
+          "title": "Wired: Mexican Air Force films UFOs",
+          "url": "https://www.wired.com/2004/05/mexican-air-force-films-ufos/"
+        }
+      ]
+    },
+    {
+      "id": "nimitz-tic-tac-2004",
+      "title": {
+        "en": "USS Nimitz 'Tic Tac' Encounter",
+        "de": "USS Nimitz: Begegnung mit dem „Tic Tac“"
+      },
+      "date": "2004-11-14",
+      "location": {
+        "en": "Pacific Ocean off Baja California",
+        "de": "Pazifik vor Baja California"
+      },
+      "lat": 31.5,
+      "lon": -117.5,
+      "summary": {
+        "en": "Radar on the cruiser USS Princeton tracked unusual targets for days, and Navy F/A-18 pilots sent to look reported a white, oblong object with no visible wings that moved away at high speed. A later flight recorded the infrared 'FLIR1' video. The Department of Defense released the video officially in 2020 and said the phenomenon remains unidentified.",
+        "de": "Das Radar des Kreuzers USS Princeton erfasste tagelang ungewöhnliche Ziele; zur Prüfung geschickte F/A-18-Piloten der Navy meldeten ein weißes, längliches Objekt ohne sichtbare Flügel, das sich mit hoher Geschwindigkeit entfernte. Ein späterer Flug zeichnete das Infrarotvideo „FLIR1“ auf. Das US-Verteidigungsministerium gab das Video 2020 offiziell frei und erklärte, das Phänomen sei weiterhin nicht identifiziert."
+      },
+      "strength": "strong",
+      "sources": [
+        {
+          "title": "U.S. Department of Defense: Statement on the release of historical Navy videos",
+          "url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+        },
+        {
+          "title": "NAVAIR FOIA reading room",
+          "url": "https://www.navair.navy.mil/foia/documents"
+        },
+        {
+          "title": "U.S. House Oversight: statement of David Fravor, 26 July 2023 (PDF)",
+          "url": "https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Wstate-FravorD-20230726.pdf"
+        }
+      ],
+      "entry_id": "nimitz-tic-tac-2004"
+    },
+    {
+      "id": "stephenville-2008",
+      "title": {
+        "en": "Stephenville Lights",
+        "de": "Lichter von Stephenville"
+      },
+      "date": "2008-01-08",
+      "location": {
+        "en": "Stephenville, Texas, USA",
+        "de": "Stephenville, Texas, USA"
+      },
+      "lat": 32.2207,
+      "lon": -98.2023,
+      "summary": {
+        "en": "Dozens of residents around Stephenville, including a pilot and a police officer, reported a large, silent object with bright lights, sometimes followed by jets. The Air Force Reserve first said no aircraft were in the area, then corrected itself: ten F-16s had been training nearby that evening. No official body investigated the object reports further.",
+        "de": "Dutzende Anwohner rund um Stephenville, darunter ein Pilot und ein Polizist, meldeten ein großes, lautloses Objekt mit hellen Lichtern, teils gefolgt von Jets. Die Reserve der US-Luftwaffe erklärte zunächst, es seien keine Flugzeuge in der Gegend gewesen, korrigierte sich dann: Zehn F-16 hätten an diesem Abend in der Nähe trainiert. Eine amtliche Stelle untersuchte die Objektmeldungen nicht weiter."
+      },
+      "strength": "weak",
+      "sources": [
+        {
+          "title": "NPR: Air Force alters Texas UFO explanation",
+          "url": "https://www.npr.org/2008/01/24/18375952/air-force-alters-texas-ufo-explanation"
+        },
+        {
+          "title": "NBC News: Air Force says F-16s were flying near Stephenville",
+          "url": "https://www.nbcnews.com/id/wbna22810569"
+        }
+      ]
+    },
+    {
+      "id": "roosevelt-gimbal-gofast-2015",
+      "title": {
+        "en": "USS Theodore Roosevelt: 'Gimbal' and 'GoFast'",
+        "de": "USS Theodore Roosevelt: „Gimbal“ und „GoFast“"
+      },
+      "date": "2014-06/2015-03",
+      "location": {
+        "en": "Atlantic Ocean off the US East Coast",
+        "de": "Atlantik vor der US-Ostküste"
+      },
+      "lat": 30.5,
+      "lon": -80.5,
+      "summary": {
+        "en": "Navy F/A-18 crews from the carrier USS Theodore Roosevelt reported frequent encounters with unidentified objects during training in 2014–15. Two infrared videos from January 2015, 'Gimbal' and 'GoFast', were officially released by the Department of Defense in 2020 and remain characterised as unidentified. Analysts have argued that the videos show distant aircraft or balloons combined with camera effects.",
+        "de": "F/A-18-Besatzungen vom Flugzeugträger USS Theodore Roosevelt meldeten 2014/15 bei Übungen häufige Begegnungen mit nicht identifizierten Objekten. Zwei Infrarotvideos vom Januar 2015, „Gimbal“ und „GoFast“, gab das US-Verteidigungsministerium 2020 offiziell frei; sie gelten weiterhin als nicht identifiziert. Analysten argumentieren, die Videos zeigten entfernte Flugzeuge oder Ballons in Verbindung mit Kameraeffekten."
+      },
+      "strength": "strong",
+      "sources": [
+        {
+          "title": "U.S. Department of Defense: Statement on the release of historical Navy videos",
+          "url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+        },
+        {
+          "title": "NAVAIR FOIA reading room",
+          "url": "https://www.navair.navy.mil/foia/documents"
+        },
+        {
+          "title": "U.S. House Oversight: statement of Rear Admiral Tim Gallaudet (ret.), 13 Nov 2024 (PDF)",
+          "url": "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-GallaudetPhDRearAdmiralUSNavyRetT-20241113.pdf"
+        }
+      ],
+      "entry_id": "theodore-roosevelt-2015"
+    }
+  ]
+}
