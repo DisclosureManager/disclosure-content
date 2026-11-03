@@ -1,7 +1,16 @@
 {
   "feed_version": 1,
-  "generated_at": "2026-11-03T07:32:05Z",
+  "generated_at": "2026-11-03T23:00:17Z",
   "items": [
+    {
+      "id": "newsnation-ufo-accbc0e0e4e6",
+      "title": "Inside the Pentagon's Anomaly Office | Reality Check",
+      "url": "https://www.newsnationnow.com/podcasts-newsnation/reality-check/inside-the-pentagons-anomaly-office-reality-check/",
+      "source": "NewsNation",
+      "source_kind": "press",
+      "published_at": "2026-11-03T22:42:23Z",
+      "lang": "en"
+    },
     {
       "id": "newsnation-ufo-e1a11d28213e",
       "title": "Ross Coulthart Q&A: Skinwalker werewolves, secret deals and why UFO proof is hidden | Reality Check",
@@ -216,15 +225,6 @@
       "source": "NewsNation",
       "source_kind": "press",
       "published_at": "2026-10-09T05:54:28Z",
-      "lang": "en"
-    },
-    {
-      "id": "newsnation-ufo-23c6792b7a49",
-      "title": "Mapping the Palomar transient hotspots | Reality Check",
-      "url": "https://www.newsnationnow.com/podcasts-newsnation/reality-check/mapping-the-palomar-transient-hotspots-reality-check/",
-      "source": "NewsNation",
-      "source_kind": "press",
-      "published_at": "2026-10-06T22:00:00Z",
       "lang": "en"
     },
     {
