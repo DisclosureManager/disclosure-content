@@ -1,7 +1,16 @@
 {
   "feed_version": 1,
-  "generated_at": "2026-11-03T23:00:17Z",
+  "generated_at": "2026-11-04T21:07:22Z",
   "items": [
+    {
+      "id": "newsnation-ufo-95052d65d43a",
+      "title": "Key UAP advocates reelected in 2026 midterms",
+      "url": "https://www.newsnationnow.com/space/ufo/key-uap-advocates-reelected-2026-midterms/",
+      "source": "NewsNation",
+      "source_kind": "press",
+      "published_at": "2026-11-04T21:03:04Z",
+      "lang": "en"
+    },
     {
       "id": "newsnation-ufo-accbc0e0e4e6",
       "title": "Inside the Pentagon's Anomaly Office | Reality Check",
@@ -216,15 +225,6 @@
       "source": "NewsNation",
       "source_kind": "press",
       "published_at": "2026-10-11T12:00:00Z",
-      "lang": "en"
-    },
-    {
-      "id": "newsnation-ufo-e2ec786b19ba",
-      "title": "Avi Loeb says he never said aliens could reveal themselves within 16 days",
-      "url": "https://www.newsnationnow.com/space/ufo/avi-loeb-16-days-aliens-a-lie/",
-      "source": "NewsNation",
-      "source_kind": "press",
-      "published_at": "2026-10-09T05:54:28Z",
       "lang": "en"
     },
     {
