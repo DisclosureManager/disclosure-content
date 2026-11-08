@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "pins_version": 2,
-  "updated": "2026-10-27",
+  "pins_version": 3,
+  "updated": "2026-11-08",
   "pins": [
     {
       "id": "arnold-1947",
@@ -638,6 +638,353 @@
         }
       ],
       "entry_id": "theodore-roosevelt-2015"
+    },
+    {
+      "id": "pendleton-napa-dawn-cloud-1966",
+      "title": {
+        "en": "The Green Dawn Cloud over California (Camp Pendleton, Los Angeles, Napa)",
+        "de": "Die grüne Morgenwolke über Kalifornien (Camp Pendleton, Los Angeles, Napa)"
+      },
+      "date": "1966-04-21",
+      "location": {
+        "en": "Camp Pendleton, Los Angeles and Napa, California, USA",
+        "de": "Camp Pendleton, Los Angeles und Napa, Kalifornien, USA"
+      },
+      "lat": 33.3,
+      "lon": -117.35,
+      "summary": {
+        "en": "Before dawn on 21 April 1966, military police at Camp Pendleton, an Air Force officer in Los Angeles and many callers around Napa and Fairfield, hundreds of kilometres apart, reported a silent pale-green glowing cloud, first shaped like a horseshoe and later like a teardrop, that hung in the sky for up to an hour and faded at daybreak. Project Blue Book filed it as a possible meteor trail. A modern launch catalogue lists a Sandia Nike Apache research rocket from Tonopah that day, but its recorded launch time was about ten hours before the sightings; a connection has not been established.",
+        "de": "Vor Sonnenaufgang am 21. April 1966 meldeten Militärpolizisten in Camp Pendleton, ein Luftwaffenoffizier in Los Angeles und viele Anrufer rund um Napa und Fairfield, Hunderte Kilometer voneinander entfernt, eine lautlose, blassgrün leuchtende Wolke, zuerst hufeisen-, später tropfenförmig, die bis zu einer Stunde am Himmel stand und bei Tagesanbruch verblasste. Project Blue Book legte den Fall als mögliche Meteorspur ab. Ein heutiger Startkatalog verzeichnet an diesem Tag eine Nike-Apache-Forschungsrakete von Sandia aus Tonopah, doch die angegebene Startzeit lag etwa zehn Stunden vor den Sichtungen; ein Zusammenhang ist nicht belegt."
+      },
+      "strength": "medium",
+      "sources": [
+        {
+          "title": "U.S. National Archives, Project Blue Book case file 'Napa, Camp Pendleton, Los Angeles, California, April 1966' (NAID 302550043, microfilm T1206 roll 61)",
+          "url": "https://catalog.archives.gov/id/302550043"
+        },
+        {
+          "title": "J. McDowell, General Catalog of Artificial Space Objects (GCAT): Nike launch list, entry 1966-S230 (Nike Apache, Sandia 154-75, Tonopah Test Range, listed 21 Apr 1966 02:10 UTC)",
+          "url": "https://planet4589.org/space/gcat/data/launch/Nike.html"
+        }
+      ]
+    },
+    {
+      "id": "rubis-barium-1966",
+      "title": {
+        "en": "The Rubis Barium Cloud over Western Europe (Font-Romeu)",
+        "de": "Die Barium-Wolke der Rubis-Rakete über Westeuropa (Font-Romeu)"
+      },
+      "date": "1966-04-22",
+      "location": {
+        "en": "Font-Romeu, Pyrenees, France (also seen elsewhere in France, in Germany, Austria and North Africa)",
+        "de": "Font-Romeu, Pyrenäen, Frankreich (auch gesehen im übrigen Frankreich, in Deutschland, Österreich und Nordafrika)"
+      },
+      "lat": 42.5,
+      "lon": 2.04,
+      "summary": {
+        "en": "On the evening of 22 April 1966 people in many parts of Europe and North Africa saw a large, glowing cloud appear in the southern sky, grow and slowly fade within about an hour. Staff at the Paris Observatory's station at Font-Romeu timed it from about 9:20 pm local time, and amateur astronomers in Toulouse, Provence and elsewhere reported it too. The cloud came from a French Rubis rocket launched from Hammaguir in the Algerian Sahara for the Max Planck Institute for Extraterrestrial Physics, which released barium at about 2,000 km altitude, where it stayed in sunlight after dark on the ground. The institute later wrote that nobody watching guessed the cause at the time.",
+        "de": "Am Abend des 22. April 1966 sahen Menschen in vielen Teilen Europas und Nordafrikas eine große, leuchtende Wolke am südlichen Himmel, die wuchs und innerhalb von etwa einer Stunde langsam verblasste. Mitarbeiter der Station der Pariser Sternwarte in Font-Romeu beobachteten sie ab etwa 21:20 Uhr Ortszeit mit Zeitangaben, auch Amateurastronomen in Toulouse, der Provence und anderswo meldeten sie. Die Wolke stammte von einer französischen Rubis-Rakete, die für das Max-Planck-Institut für extraterrestrische Physik in Hammaguir in der algerischen Sahara startete und in etwa 2.000 km Höhe Barium freisetzte; dort lag es noch im Sonnenlicht, als es am Boden schon dunkel war. Das Institut schrieb später, dass damals keiner der Beobachter die Ursache erriet."
+      },
+      "strength": "strong",
+      "sources": [
+        {
+          "title": "Max Planck Institute for Extraterrestrial Physics: 'Reflections on 50 years' (institute history, PDF; Rubis launch of 22 April 1966, pp. 19-21)",
+          "url": "https://www.mpe.mpg.de/6652079/mpe-reflections-onlinepub-min.pdf"
+        },
+        {
+          "title": "R. Lüst: 'Barium cloud experiments in the upper atmosphere', in The Century of Space Science (2001), pp. 179-187 (PDF)",
+          "url": "https://digitale-objekte.hbz-nrw.de/storage/2006/07/07/file_170/1480023.pdf"
+        },
+        {
+          "title": "A. Hamon: 'Un phénomène céleste inusité', L'Astronomie (Société astronomique de France) vol. 80 (1966), pp. 414-415 (scan via NASA ADS)",
+          "url": "https://articles.adsabs.harvard.edu/pdf/1966LAstr..80..414H"
+        },
+        {
+          "title": "J. McDowell, General Catalog of Artificial Space Objects (GCAT): launch list, entry 1966-S233 (Rubis R9, Hammaguir, 22 Apr 1966 20:00 UTC, MPE barium)",
+          "url": "https://planet4589.org/space/gcat/tsv/launch/launch.tsv"
+        }
+      ]
+    },
+    {
+      "id": "aa387-farmington-1966",
+      "title": {
+        "en": "American Airlines Flight 387 and the Twilight Cloud (Farmington, New Mexico)",
+        "de": "American-Airlines-Flug 387 und die Dämmerungswolke (Farmington, New Mexico)"
+      },
+      "date": "1966-04-22",
+      "location": {
+        "en": "In flight over Farmington, New Mexico, USA",
+        "de": "Im Flug über Farmington, New Mexico, USA"
+      },
+      "lat": 36.73,
+      "lon": -108.22,
+      "summary": {
+        "en": "Around sunset on 22 April 1966 the pilot of American Airlines Flight 387 from St. Louis to Los Angeles, flying at about 33,000 ft over Farmington, New Mexico, pointed out a bright cloud-like object with a long pink tail far off the left wing; it faded after several minutes and crews of other aircraft also saw it. The pilot thought it was a flare fired from White Sands, and the Air Force-funded Condon study (1968) agreed that a high-altitude flare or rocket test was the most likely cause, although Project Blue Book said it had no record of a test that day. A modern launch catalogue lists a Nike Cajun rocket from White Sands Missile Range at about 7:10 pm local time that evening, which would have been sunlit high above the dark ground in the right direction.",
+        "de": "Gegen Sonnenuntergang am 22. April 1966 machte der Pilot von American-Airlines-Flug 387 von St. Louis nach Los Angeles, in etwa 10.000 m Höhe über Farmington (New Mexico), auf ein helles, wolkenartiges Objekt mit langem rosa Schweif weit links vom Flugzeug aufmerksam; es verblasste nach einigen Minuten, auch Besatzungen anderer Flugzeuge sahen es. Der Pilot hielt es für eine von White Sands abgeschossene Leuchtladung, und die von der Luftwaffe finanzierte Condon-Studie (1968) hielt einen Leuchtkörper- oder Raketentest in großer Höhe für die wahrscheinlichste Ursache, obwohl Project Blue Book keinen Test an diesem Tag verzeichnet fand. Ein heutiger Startkatalog führt für diesen Abend gegen 19:10 Uhr Ortszeit eine Nike-Cajun-Rakete von der White Sands Missile Range, deren Spur hoch über dem dunklen Boden noch in der Sonne gelegen hätte, und zwar in der passenden Richtung."
+      },
+      "strength": "medium",
+      "sources": [
+        {
+          "title": "Scientific Study of Unidentified Flying Objects (Condon Report, University of Colorado for the U.S. Air Force, 1968/69), Case 55: American Airlines Flight 387, 22 April 1966",
+          "url": "https://condon.ncas.org/text/case55.htm"
+        },
+        {
+          "title": "J. McDowell, General Catalog of Artificial Space Objects (GCAT): Nike launch list, entry 1966-S199 (Nike Cajun, White Sands, 23 Apr 1966 02:10 UTC)",
+          "url": "https://planet4589.org/space/gcat/data/launch/Nike.html"
+        }
+      ]
+    },
+    {
+      "id": "wallops-barium-javelin-1966",
+      "title": {
+        "en": "The Pre-Dawn 'Blue Comet' Seen Across Four States",
+        "de": "Der 'blaue Komet' vor Tagesanbruch über vier Bundesstaaten"
+      },
+      "date": "1966-09-24",
+      "location": {
+        "en": "Seen from Alabama, Arkansas, Ohio and Louisiana, USA; cloud released high above Wallops Island, Virginia",
+        "de": "Gesehen in Alabama, Arkansas, Ohio und Louisiana, USA; Wolke hoch über Wallops Island, Virginia, freigesetzt"
+      },
+      "lat": 37.84,
+      "lon": -75.48,
+      "summary": {
+        "en": "Before dawn on 24 September 1966, civilian and military observers in Alabama, Arkansas, Ohio and Louisiana reported a glowing blue-green object, by some accounts twice the size of the Moon, that seemed to grow, rush towards them like a bright comet and then fade, leaving a streak of light behind. Project Blue Book closed the reports as a barium cloud release. That morning, a research rocket launched from NASA's Wallops Island range in Virginia had released barium and copper oxide clouds several hundred kilometres up, high enough to catch sunlight while the ground below was still dark. A modern launch catalogue lists the same rocket.",
+        "de": "Vor Tagesanbruch am 24. September 1966 meldeten zivile und militärische Beobachter in Alabama, Arkansas, Ohio und Louisiana ein bläulich-grün leuchtendes Objekt, nach manchen Angaben doppelt so groß wie der Mond, das zu wachsen, wie ein heller Komet auf sie zuzukommen und dann zu verblassen schien und einen Lichtstreifen zurückließ. Project Blue Book schloss die Meldungen als Barium-Wolkenfreisetzung ab. An diesem Morgen hatte eine Forschungsrakete vom NASA-Startplatz Wallops Island in Virginia mehrere hundert Kilometer hoch Barium- und Kupferoxidwolken freigesetzt, so hoch, dass sie schon von der Sonne beschienen wurden, während es am Boden noch dunkel war. Ein heutiger Startkatalog verzeichnet dieselbe Rakete."
+      },
+      "strength": "strong",
+      "sources": [
+        {
+          "title": "U.S. National Archives, Project Blue Book case file 'Alabama, September 1966' (NAID 302556073, microfilm T1206 roll 65; record card for the multi-state reports of 24 September 1966)",
+          "url": "https://catalog.archives.gov/id/302556073"
+        },
+        {
+          "title": "J. McDowell, General Catalog of Artificial Space Objects (GCAT): launch list, entry 1966-S503 (Javelin, Wallops Island, 24 Sep 1966 09:13 UTC, 'MPE Ba', apogee about 930 km)",
+          "url": "https://planet4589.org/space/gcat/tsv/launch/launch.tsv"
+        }
+      ]
+    },
+    {
+      "id": "warner-robins-1967",
+      "title": {
+        "en": "Question-Mark Cloud at Dawn (Warner Robins, Georgia)",
+        "de": "Fragezeichen-Wolke im Morgengrauen (Warner Robins, Georgia)"
+      },
+      "date": "1967-01-16",
+      "location": {
+        "en": "Warner Robins, Georgia, USA",
+        "de": "Warner Robins, Georgia, USA"
+      },
+      "lat": 32.615,
+      "lon": -83.627,
+      "summary": {
+        "en": "Shortly before sunrise on 16 January 1967 a resident near Robins Air Force Base in Georgia, alerted by another person, watched a bluish-green glowing shape in the south-western sky for about 20 minutes. It looked like a horseshoe or a question mark with a reddish tail, seemed to hang still and faded as daylight came. Project Blue Book identified it as an artificial cloud release from a research rocket at Eglin Air Force Base, about 390 km to the south-west. The file and a modern launch catalogue record a dawn launch that morning, although the recorded observation and launch times differ by a few minutes.",
+        "de": "Kurz vor Sonnenaufgang am 16. Januar 1967 beobachtete ein Anwohner nahe der Robins Air Force Base in Georgia, von einer anderen Person aufmerksam gemacht, etwa 20 Minuten lang eine bläulich-grün leuchtende Form am südwestlichen Himmel. Sie sah aus wie ein Hufeisen oder ein Fragezeichen mit rötlichem Schweif, schien still zu stehen und verblasste mit dem Tageslicht. Project Blue Book ordnete die Beobachtung einer künstlichen Wolkenfreisetzung durch eine Forschungsrakete der etwa 390 km südwestlich gelegenen Eglin Air Force Base zu. Die Akte und ein heutiger Startkatalog verzeichnen an diesem Morgen einen Start in der Morgendämmerung; die protokollierten Beobachtungs- und Startzeiten weichen allerdings um wenige Minuten voneinander ab."
+      },
+      "strength": "strong",
+      "sources": [
+        {
+          "title": "U.S. National Archives, Project Blue Book case file 'Warner Robins, Georgia, January 1967' (NAID 302559882, microfilm T1206 roll 68)",
+          "url": "https://catalog.archives.gov/id/302559882"
+        },
+        {
+          "title": "J. McDowell, General Catalog of Artificial Space Objects (GCAT): Nike launch list, entry 1967-S56 (Nike Iroquois, Eglin AFB, 16 Jan 1967 11:48 UTC, AFCRL, apogee about 217 km)",
+          "url": "https://planet4589.org/space/gcat/data/launch/Nike.html"
+        }
+      ]
+    },
+    {
+      "id": "leary-1969",
+      "title": {
+        "en": "Jimmy Carter's Light in the Sky (Leary, Georgia)",
+        "de": "Jimmy Carters Licht am Himmel (Leary, Georgia)"
+      },
+      "date": "1969-01-06",
+      "location": {
+        "en": "Leary, Calhoun County, Georgia, USA",
+        "de": "Leary, Calhoun County, Georgia, USA"
+      },
+      "lat": 31.485,
+      "lon": -84.513,
+      "summary": {
+        "en": "On an evening in early 1969, Jimmy Carter, then a former Georgia state senator and later U.S. President, stood outside a Lions Club meeting in Leary, Georgia, with about ten other men and watched a bright light in the western sky. It seemed to come closer, stop, move away and change colour from bluish to reddish before fading. Carter described it on forms for two UFO organisations in 1973, and the story became famous when he was President. Lions Club records place his Leary visit on 6 January 1969. That evening the U.S. Air Force launched a rocket from Eglin Air Force Base, Florida, about 250 km to the west-south-west, to release barium clouds high in the atmosphere. A retired atmospheric scientist who worked on such experiments argues that these clouds match Carter's account. An earlier explanation was the planet Venus, which was in the same part of the sky. The cited sources identify no official investigation of Carter's sighting.",
+        "de": "An einem Abend Anfang 1969 stand Jimmy Carter, damals ehemaliger Senator im Parlament von Georgia und später US-Präsident, mit etwa zehn anderen Männern vor einem Treffen des Lions Club in Leary (Georgia) und beobachtete ein helles Licht am westlichen Himmel. Es schien näher zu kommen, anzuhalten, sich zu entfernen und die Farbe von bläulich zu rötlich zu wechseln, bevor es verblasste. Carter beschrieb es 1973 auf Formularen zweier UFO-Organisationen; bekannt wurde die Geschichte, als er Präsident war. Nach Unterlagen des Lions Club war sein Besuch in Leary am 6. Januar 1969. An diesem Abend startete die US-Luftwaffe von der Eglin Air Force Base in Florida, etwa 250 km west-südwestlich, eine Rakete, die in großer Höhe Bariumwolken freisetzte. Ein pensionierter Atmosphärenforscher, der an solchen Experimenten mitarbeitete, hält diese Wolken für die Erklärung von Carters Beobachtung. Eine frühere Erklärung war der Planet Venus, der in derselben Himmelsgegend stand. Die angeführten Quellen nennen keine amtliche Untersuchung von Carters Sichtung."
+      },
+      "strength": "medium",
+      "sources": [
+        {
+          "title": "The Washington Post (Thomas O'Toole): 'UFO Over Georgia? Jimmy Logged One' (April 1977)",
+          "url": "https://www.washingtonpost.com/archive/politics/1977/04/30/ufo-over-georgia-jimmy-logged-one/080ef1c3-6ff3-41a9-a1e4-a37c54b5cbca/"
+        },
+        {
+          "title": "HISTORY.com: 'Jimmy Carter files report on UFO sighting' (This Day in History, 18 September 1973)",
+          "url": "https://www.history.com/this-day-in-history/september-18/carter-files-report-on-ufo-sighting"
+        },
+        {
+          "title": "J. McDowell, General Catalog of Artificial Space Objects (GCAT): Nike launch list (6 Jan 1969, 23:41 UTC, Eglin AFB, AFCRL barium release)",
+          "url": "https://planet4589.org/space/gcat/data/launch/Nike.html"
+        },
+        {
+          "title": "C. G. Justus (retired Georgia Tech atmospheric scientist): 'What Was That UFO Jimmy Carter Saw?' (February 2020, PDF)",
+          "url": "https://www.debunker.com/texts/What%20Jimmy%20Carter%20Saw.pdf"
+        },
+        {
+          "title": "W. K. Vickery, Air Force Cambridge Research Laboratories: 'Characteristics of Upper Atmosphere Barium, Trimethylaluminum, Diborane and Lithium Releases, 1969', AFCRL-70-0691 / DTIC AD0724099 (26 Oct 1970), DTIC PDF via Internet Archive",
+          "url": "https://web.archive.org/web/20230521160018/https://apps.dtic.mil/sti/pdfs/AD0724099.pdf"
+        }
+      ]
+    },
+    {
+      "id": "campo-de-mayo-1972",
+      "title": {
+        "en": "Campo de Mayo Coloured Sphere (Gendarmería Cessna)",
+        "de": "Farbige Kugel über Campo de Mayo (Cessna der Gendarmería)"
+      },
+      "date": "1972-11-02",
+      "location": {
+        "en": "Over Campo de Mayo airfield, Buenos Aires Province, Argentina",
+        "de": "Über dem Flugplatz Campo de Mayo, Provinz Buenos Aires, Argentinien"
+      },
+      "lat": -34.53,
+      "lon": -58.67,
+      "summary": {
+        "en": "On the evening of 2 November 1972 the crew of a Gendarmería Nacional Cessna 182 on a night training flight over Campo de Mayo reported a huge glowing, multicoloured sphere to the north-west that changed shape and faded; two other aircraft reported it too. For decades it was counted among Argentina's most puzzling cases. In 2017 and 2018 the Argentine Air Force's study commission (CEFAE) concluded it was a barium cloud released for an ionospheric experiment by a Rigel sounding rocket launched from Chamical, La Rioja, about two minutes before the sighting began. The launch is listed independently in rocket launch records.",
+        "de": "Am Abend des 2. November 1972 meldete die Besatzung einer Cessna 182 der Gendarmería Nacional auf einem nächtlichen Übungsflug über Campo de Mayo eine riesige, leuchtende, mehrfarbige Kugel im Nordwesten, die ihre Form veränderte und verblasste; zwei weitere Flugzeuge meldeten sie ebenfalls. Jahrzehntelang galt der Fall als einer der rätselhaftesten Argentiniens. 2017 und 2018 kam die Untersuchungskommission der argentinischen Luftwaffe (CEFAE) zu dem Schluss, dass es eine Bariumwolke für ein Ionosphärenexperiment war, freigesetzt von einer Rigel-Höhenforschungsrakete, die etwa zwei Minuten vor Beginn der Sichtung in Chamical (La Rioja) gestartet war. Der Start ist in Raketenstartverzeichnissen unabhängig belegt."
+      },
+      "strength": "strong",
+      "sources": [
+        {
+          "title": "Fuerza Aérea Argentina, CEFAE: Informe anual 2017, case 17 'Campo de Mayo' (pp. 45–48), argentina.gob.ar",
+          "url": "https://www.argentina.gob.ar/sites/default/files/informe_cefae_2017.pdf"
+        },
+        {
+          "title": "Fuerza Aérea Argentina, CEFAE: Informe anual 2018, case 22 'Campo de Mayo' follow-up (pp. 43–50), argentina.gob.ar",
+          "url": "https://www.argentina.gob.ar/sites/default/files/informe_cefae_2018.pdf"
+        },
+        {
+          "title": "J. McDowell, General Catalog of Artificial Space Objects (GCAT): Rigel launch list (2 Nov 1972, 23:28 UTC, CELPA Chamical, MPE barium/europium experiment, apogee 240 km)",
+          "url": "https://planet4589.org/space/gcat/data/launch/Rigel.html"
+        }
+      ]
+    },
+    {
+      "id": "aguadilla-2013",
+      "title": {
+        "en": "Aguadilla Infrared Video (CBP Aircraft)",
+        "de": "Infrarotvideo von Aguadilla (Flugzeug der US-Grenzschutzbehörde)"
+      },
+      "date": "2013-04-25",
+      "location": {
+        "en": "Rafael Hernández Airport, Aguadilla, Puerto Rico",
+        "de": "Flughafen Rafael Hernández, Aguadilla, Puerto Rico"
+      },
+      "lat": 18.495,
+      "lon": -67.129,
+      "summary": {
+        "en": "On the night of 25 April 2013 (local time) the infrared camera of a U.S. Customs and Border Protection Dash 8 filmed a small, flickering heat source drifting over Aguadilla airport for almost four minutes. The leaked video was widely claimed to show an object that split in two and dived into the sea. An Argentine Air Force study commission (CEFAE, 2017) and the Pentagon's AARO (2025) each concluded that it shows two small objects drifting with the wind over land, most likely a pair of sky lanterns; AARO says the objects never entered the water. AARO rates the lantern identification as moderate confidence.",
+        "de": "In der Nacht des 25. April 2013 (Ortszeit) filmte die Infrarotkamera einer Dash 8 der US-Grenzschutzbehörde CBP fast vier Minuten lang eine kleine, flackernde Wärmequelle, die über den Flughafen von Aguadilla trieb. Das durchgesickerte Video galt vielen als Beleg für ein Objekt, das sich teilte und ins Meer tauchte. Die Untersuchungskommission der argentinischen Luftwaffe (CEFAE, 2017) und das Pentagon-Büro AARO (2025) kamen unabhängig voneinander zu dem Schluss, dass es zwei kleine, mit dem Wind über Land treibende Objekte zeigt, höchstwahrscheinlich ein Paar Himmelslaternen; laut AARO gelangten die Objekte nie ins Wasser. AARO stuft die Identifizierung als Himmelslaternen mit mittlerer Sicherheit ein."
+      },
+      "strength": "strong",
+      "sources": [
+        {
+          "title": "All-domain Anomaly Resolution Office (AARO), U.S. Department of Defense: 'The Puerto Rico Object' case resolution (20 March 2025)",
+          "url": "https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf"
+        },
+        {
+          "title": "Fuerza Aérea Argentina, CEFAE: Informe anual 2017, case 19 'Aguadilla, Puerto Rico' (pp. 51–73), argentina.gob.ar",
+          "url": "https://www.argentina.gob.ar/sites/default/files/informe_cefae_2017.pdf"
+        },
+        {
+          "title": "DVIDS (U.S. Department of Defense): 'Puerto Rico Objects' infrared video as released by AARO",
+          "url": "https://www.dvidshub.net/video/944204/puerto-rico-objects"
+        }
+      ]
+    },
+    {
+      "id": "al-taqaddum-2017",
+      "title": {
+        "en": "Al Taqaddum Object (Aerostat Infrared Video, Iraq)",
+        "de": "Objekt von Al Taqaddum (Infrarotvideo eines Fesselballons, Irak)"
+      },
+      "date": "2017-10-23",
+      "location": {
+        "en": "Al Taqaddum Air Base, near Habbaniyah, Iraq",
+        "de": "Luftwaffenstützpunkt Al Taqaddum bei Habbaniyah, Irak"
+      },
+      "lat": 33.34,
+      "lon": 43.59,
+      "summary": {
+        "en": "On 23 October 2017 an infrared camera on a force-protection blimp tethered about 820 m above Al Taqaddum Air Base in Iraq filmed an oddly shaped object that seemed to float above the ground for about 17 and a half minutes. The Pentagon's AARO released the video in 2025 and concluded that the object was a cluster of fully and partially inflated balloons with strings hanging below, drifting from east to west at roughly wind speed. A suggestion from one of AARO's partners that it was a drone wrapped in camouflage netting was rejected, because the object drifted with the wind and showed no motor heat.",
+        "de": "Am 23. Oktober 2017 filmte eine Infrarotkamera an einem Fesselballon zur Objektsicherung, etwa 820 m über dem Luftwaffenstützpunkt Al Taqaddum im Irak, rund 17,5 Minuten lang ein seltsam geformtes Objekt, das über dem Boden zu schweben schien. Das Pentagon-Büro AARO veröffentlichte das Video 2025 und kam zu dem Schluss, dass es sich um ein Bündel ganz und teilweise aufgeblasener Ballons mit herabhängenden Schnüren handelte, das etwa mit Windgeschwindigkeit von Ost nach West trieb. Die Vermutung eines AARO-Partners, es sei eine mit Tarnnetz umhüllte Drohne, wurde verworfen, weil das Objekt mit dem Wind trieb und keine Motorwärme zeigte."
+      },
+      "strength": "medium",
+      "sources": [
+        {
+          "title": "All-domain Anomaly Resolution Office (AARO), U.S. Department of War: 'The Al Taqaddum Object' case resolution (8 September 2025)",
+          "url": "https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Al_Taqaddam_Case_Resolution_Final.pdf"
+        },
+        {
+          "title": "DVIDS (U.S. Department of Defense): 'Al Taqaddum Object' infrared video as released by AARO",
+          "url": "https://www.dvidshub.net/video/960331/al-taqaddum-object"
+        }
+      ]
+    },
+    {
+      "id": "mt-etna-2018",
+      "title": {
+        "en": "Mt. Etna Object (U.S. Drone Infrared Video)",
+        "de": "Objekt am Ätna (Infrarotvideo einer US-Drohne)"
+      },
+      "date": "2018-12",
+      "location": {
+        "en": "Over the Mediterranean Sea south of Sicily, Italy (approximate; exact position not released)",
+        "de": "Über dem Mittelmeer südlich von Sizilien, Italien (ungefähr; genaue Position nicht veröffentlicht)"
+      },
+      "lat": 36.6,
+      "lon": 14.9,
+      "summary": {
+        "en": "In December 2018 a shortwave infrared camera on an uncrewed U.S. military aircraft operating south of Sicily filmed an eruption of Mt. Etna. For about four and a half minutes a small round object seemed to race across the picture and pass straight through the hot ash plume, and the operators reported it at about 555 km/h. The Pentagon's AARO concluded in 2025 that the object was about 30 km from the camera and 170 km from the plume, drifting with the wind at about 39 km/h, and that the apparent speed was parallax from the moving aircraft. AARO is highly confident nothing anomalous happened, but only moderately confident the object was a balloon.",
+        "de": "Im Dezember 2018 filmte eine Kurzwellen-Infrarotkamera an Bord eines unbemannten US-Militärflugzeugs südlich von Sizilien einen Ausbruch des Ätna. Etwa viereinhalb Minuten lang schien ein kleines rundes Objekt durchs Bild zu rasen und mitten durch die heiße Aschewolke zu fliegen; die Bediener meldeten rund 555 km/h. Das Pentagon-Büro AARO kam 2025 zu dem Schluss, dass das Objekt etwa 30 km von der Kamera und 170 km von der Aschewolke entfernt war, mit etwa 39 km/h mit dem Wind trieb und die scheinbare Geschwindigkeit eine Parallaxe durch das fliegende Trägerflugzeug war. AARO hält es für sehr sicher, dass nichts Ungewöhnliches geschah, aber nur für mäßig sicher, dass es ein Ballon war."
+      },
+      "strength": "medium",
+      "sources": [
+        {
+          "title": "All-domain Anomaly Resolution Office (AARO), U.S. Department of Defense: 'Mt. Etna Object' case resolution (28 April 2025)",
+          "url": "https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Mt-Etna-Object.pdf"
+        },
+        {
+          "title": "DVIDS (U.S. Department of Defense): 'Mt. Etna Object' infrared video as released by AARO",
+          "url": "https://www.dvidshub.net/video/944201/mt-etna-object"
+        }
+      ]
+    },
+    {
+      "id": "eglin-2023",
+      "title": {
+        "en": "Eglin Training Range Object (Military Pilot, Florida)",
+        "de": "Objekt über dem Übungsgebiet Eglin (Militärpilot, Florida)"
+      },
+      "date": "2023-01-26",
+      "location": {
+        "en": "Eglin Air Force Base area, north-west Florida, USA (approximate reference marker; the sighting was offshore)",
+        "de": "Gebiet der Eglin Air Force Base, Nordwest-Florida, USA (ungefähre Referenzmarkierung; die Sichtung fand vor der Küste statt)"
+      },
+      "lat": 30.48,
+      "lon": -86.53,
+      "summary": {
+        "en": "On 26 January 2023 a U.S. military pilot training over the Eglin Air Force Base range off Florida picked up four radar contacts at about 16,000 to 18,000 feet, saw one of them and took two still images of a grey, cone-topped round object. The aircraft's radar then failed when the pilot closed in. In October 2023 the Pentagon's AARO concluded, with moderate confidence because the data were limited, that the object was very likely a balloon, possibly a large commercial lighting balloon, and that the radar failure came from a circuit breaker that had already tripped three times before. The other three radar contacts could not be analysed.",
+        "de": "Am 26. Januar 2023 erfasste ein US-Militärpilot bei einem Übungsflug über dem Gebiet der Eglin Air Force Base vor Florida vier Radarziele in etwa 16.000 bis 18.000 Fuß Höhe, sah eines davon und machte zwei Standbilder eines grauen, runden Objekts mit kegelförmiger Oberseite. Als der Pilot sich näherte, fiel das Radar des Flugzeugs aus. Im Oktober 2023 kam das Pentagon-Büro AARO mit mittlerer Sicherheit, da die Daten begrenzt waren, zu dem Schluss, dass es sehr wahrscheinlich ein Ballon war, möglicherweise ein großer kommerzieller Leuchtballon, und dass der Radarausfall von einer Sicherung kam, die schon dreimal zuvor ausgelöst hatte. Die drei übrigen Radarziele konnten nicht untersucht werden."
+      },
+      "strength": "medium",
+      "sources": [
+        {
+          "title": "All-domain Anomaly Resolution Office (AARO), U.S. Department of Defense: 'Eglin UAP' case resolution (14 October 2023)",
+          "url": "https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf"
+        },
+        {
+          "title": "The War Zone (TWZ): 'Eglin AFB Pilot Likely Saw A Lighting Balloon, Not A UFO Pentagon Concludes'",
+          "url": "https://www.twz.com/air/eglin-afb-pilot-likely-saw-a-lighting-balloon-not-a-ufo-pentagon-concludes"
+        }
+      ]
     }
   ]
 }
