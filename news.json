@@ -1,7 +1,16 @@
 {
   "feed_version": 1,
-  "generated_at": "2026-11-08T13:12:21Z",
+  "generated_at": "2026-11-09T03:05:31Z",
   "items": [
+    {
+      "id": "newsnation-ufo-835448579d48",
+      "title": "Trump says Air Force pilots revealed 'strange' sightings while up in the air",
+      "url": "https://www.newsnationnow.com/politics/trump-ufos-air-force-revelations/",
+      "source": "NewsNation",
+      "source_kind": "press",
+      "published_at": "2026-11-09T02:00:15Z",
+      "lang": "en"
+    },
     {
       "id": "newsnation-ufo-243ba3c4b242",
       "title": "Ross Coulthart Q&A: UFO crashes, the 'face on Mars' and US midterm elections | Reality Check",
@@ -216,15 +225,6 @@
       "source": "NewsNation",
       "source_kind": "press",
       "published_at": "2026-10-13T21:00:00Z",
-      "lang": "en"
-    },
-    {
-      "id": "newsnation-ufo-3f343808a3f1",
-      "title": "Why Ross Coulthart says NASA's UAP disclosure isn't complete",
-      "url": "https://www.newsnationnow.com/space/ufo/ross-coulthart-nasa-uap-disclosure-incomplete/",
-      "source": "NewsNation",
-      "source_kind": "press",
-      "published_at": "2026-10-12T00:45:44Z",
       "lang": "en"
     },
     {
