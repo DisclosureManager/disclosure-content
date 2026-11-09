@@ -1,5 +1,5 @@
 {
-  "catalog_version": 6,
+  "catalog_version": 7,
   "updated": "2026-11-09",
   "entries": [
     {
@@ -3966,6 +3966,74 @@
         "birds",
         "preprint",
         "galileo-project",
+        "2026"
+      ]
+    },
+    {
+      "id": "kirkpatrick-unresolved-labels-2026",
+      "title": "Former AARO Director Says Some Resolved Cases Were Released as Unresolved",
+      "title_de": "Ehemaliger AARO-Direktor: Einige gelöste Fälle wurden als ungelöst veröffentlicht",
+      "date": "2026-11-01",
+      "source": "Fox News Digital interview with Sean Kirkpatrick (Greg Wehner)",
+      "source_url": "https://www.foxnews.com/us/former-pentagon-ufo-chief-disputes-fbi-black-triangle-sighting-says-reports-lack-evidence",
+      "category": "Media Investigation",
+      "summary": "Sean Kirkpatrick, AARO's first director, told Fox News Digital that 'unresolved' in UAP records usually means too little data to reach a conclusion, not something inexplicable. He said AARO had resolved many of the cases now published as unresolved, and that Pentagon leadership told the office to remove the resolution language before release. He did not say when this happened or who gave the instruction, and no document backing it has been published. A War Department official said the department gives no assessment of the files so the public can decide for itself. Kirkpatrick also said the 2026 triangle reports in the seventh release add nothing new, and the department confirmed the images with the FBI report are illustrations.",
+      "summary_de": "Sean Kirkpatrick, der erste Direktor von AARO, sagte Fox News Digital, „ungelöst“ bedeute in UAP-Akten meist, dass die Daten für ein Urteil nicht reichen, nicht dass etwas unerklärlich sei. AARO habe viele der jetzt als ungelöst veröffentlichten Fälle gelöst, und die Pentagon-Führung habe angeordnet, die Erklärungen vor der Veröffentlichung zu entfernen. Wann das war und wer es angeordnet hat, sagte er nicht; ein Dokument dazu ist nicht veröffentlicht. Ein Vertreter des Kriegsministeriums sagte, das Ministerium bewerte die Akten bewusst nicht, damit sich die Öffentlichkeit selbst ein Urteil bilden könne. Zu den Dreiecksberichten von 2026 aus der siebten Freigabe meinte Kirkpatrick, sie brächten nichts Neues; das Ministerium bestätigte, dass die Bilder zum FBI-Bericht Illustrationen sind.",
+      "quotes": [
+        {
+          "speaker": "Sean Kirkpatrick, former AARO director, to Fox News Digital (November 1, 2026)",
+          "text": "When we say a case is unresolved, it generally means there is no data or there is insufficient data to actually analyze it"
+        },
+        {
+          "speaker": "Sean Kirkpatrick, former AARO director, to Fox News Digital (November 1, 2026)",
+          "text": "Pentagon leadership had told AARO to remove all of the resolution language and put these cases out as unresolved"
+        },
+        {
+          "speaker": "War Department official, on background, to Fox News Digital (November 1, 2026)",
+          "text": "We are not providing any comment or assessment on the files overall or on any specific file, so that the American people can make up their own minds regarding the files"
+        }
+      ],
+      "relevance_score": 3,
+      "relevance_breakdown": {
+        "crash_retrievals": {
+          "score": 0,
+          "note": "Not addressed."
+        },
+        "non_human_origin": {
+          "score": 0,
+          "note": "Kirkpatrick says none of the data AARO reviewed matched an alien hypothesis."
+        },
+        "government_coverup": {
+          "score": 2,
+          "note": "Alleges resolution language was removed before release; unconfirmed, no cases named."
+        },
+        "technology": {
+          "score": 0,
+          "note": "No new data."
+        },
+        "whistleblower_credibility": {
+          "score": 1,
+          "note": "Named former office head speaking on the record; no supporting documents."
+        },
+        "explanation": "A named former official's on-the-record claim about how the PURSUE files are labelled; it is unconfirmed.",
+        "explanation_de": "Eine namentliche, öffentliche Aussage eines früheren Amtsleiters dazu, wie die PURSUE-Akten etikettiert werden; sie ist unbestätigt."
+      },
+      "influence_breakdown": {
+        "official_acknowledgement": 0,
+        "oversight_action": 0,
+        "public_record": 1,
+        "lasting_impact": 1,
+        "evidence_substance": 0,
+        "note": "An on-the-record interview, not an official document; the department neither confirmed nor denied the alleged instruction.",
+        "note_de": "Ein Interview mit Namensnennung, kein amtliches Dokument; das Ministerium hat die behauptete Anweisung weder bestätigt noch bestritten."
+      },
+      "timeline_context": "Kirkpatrick was AARO's first director and testified to the Senate in April 2023; the PURSUE releases began in May 2026.",
+      "timeline_context_de": "Kirkpatrick war der erste Direktor von AARO und sagte im April 2023 vor dem Senat aus; die PURSUE-Freigaben begannen im Mai 2026.",
+      "tags": [
+        "aaro",
+        "kirkpatrick",
+        "pursue",
+        "unresolved",
         "2026"
       ]
     }
