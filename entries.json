@@ -1,6 +1,6 @@
 {
-  "catalog_version": 5,
-  "updated": "2026-10-27",
+  "catalog_version": 6,
+  "updated": "2026-11-09",
   "entries": [
     {
       "id": "roswell-1947",
@@ -3901,6 +3901,71 @@
         "raf",
         "typhoon",
         "airprox",
+        "2026"
+      ]
+    },
+    {
+      "id": "pursue-pr135-birds-preprint-2026",
+      "title": "Scientists Propose Birds for Six '480 mph' Objects in a PURSUE Infrared Video",
+      "title_de": "Forscher halten sechs „480 mph“-Objekte in einem PURSUE-Infrarotvideo für Vögel",
+      "date": "2026-10-06",
+      "source": "arXiv preprint 2610.08692 (Haqq-Misra, Kopparapu, Cloete, Eldadi, Shermer and Loeb), not yet peer reviewed",
+      "source_url": "https://arxiv.org/abs/2610.08692",
+      "category": "Other",
+      "summary": "Six researchers, including Harvard astrophysicist Avi Loeb and NASA scientist Ravi Kopparapu, measured the brightness of six objects frame by frame in DOW-UAP-PR135, an infrared clip from the sixth PURSUE release whose report estimated their speed at 480 mph. Each object brightens and dims about 7 to 8 times a second at its own rhythm, which matches bird wingbeats recorded by the Galileo Project's cameras; tests showed the sensor and video compression do not create this flicker. They argue the speed is an artifact of the aircraft's own motion because the objects' range was never measured. Later versions report similar flicker in nine more released military videos. The paper is a preprint submitted to a journal, and the authors say the redacted sensor data could disprove their explanation.",
+      "summary_de": "Sechs Forscher, darunter der Harvard-Astrophysiker Avi Loeb und der NASA-Wissenschaftler Ravi Kopparapu, haben in DOW-UAP-PR135, einem Infrarotclip aus der sechsten PURSUE-Freigabe, die Helligkeit von sechs Objekten Bild für Bild gemessen. Der zugehörige Bericht schätzte ihre Geschwindigkeit auf 480 Meilen pro Stunde. Jedes Objekt wird etwa 7- bis 8-mal pro Sekunde heller und dunkler, jedes in seinem eigenen Takt; das passt zu Flügelschlägen von Vögeln, die die Kameras des Galileo Project aufgezeichnet haben. Tests zeigten, dass weder der Sensor noch die Videokompression dieses Flackern erzeugen. Die Geschwindigkeit sei eine Folge der Eigenbewegung des Flugzeugs, weil die Entfernung der Objekte nie gemessen wurde. Spätere Fassungen finden ähnliches Flackern in neun weiteren freigegebenen Militärvideos. Die Arbeit ist ein bei einer Fachzeitschrift eingereichter Preprint; die Autoren schreiben selbst, dass die geschwärzten Sensordaten ihre Erklärung widerlegen könnten.",
+      "quotes": [
+        {
+          "speaker": "Haqq-Misra et al., arXiv:2610.08692, abstract (v4, October 16, 2026)",
+          "text": "The six objects are best explained as a small flock of birds flying nearer to the aircraft than the crew assumed."
+        },
+        {
+          "speaker": "Haqq-Misra et al., arXiv:2610.08692, abstract (v4, October 16, 2026)",
+          "text": "Releasing the redacted sensor and platform data would provide information that could refute the bird hypothesis"
+        }
+      ],
+      "relevance_score": 3,
+      "relevance_breakdown": {
+        "crash_retrievals": {
+          "score": 0,
+          "note": "Not addressed."
+        },
+        "non_human_origin": {
+          "score": 0,
+          "note": "Proposes an ordinary explanation (birds) for one officially released clip."
+        },
+        "government_coverup": {
+          "score": 0,
+          "note": "Not addressed; the authors ask for the redacted data."
+        },
+        "technology": {
+          "score": 2,
+          "note": "Frame-by-frame measurements with published code and data; not yet peer reviewed."
+        },
+        "whistleblower_credibility": {
+          "score": 0,
+          "note": "Not a witness account."
+        },
+        "explanation": "A testable, data-based explanation for one of the government's released UAP videos, with its limits stated.",
+        "explanation_de": "Eine überprüfbare, datenbasierte Erklärung für eines der von der Regierung freigegebenen UAP-Videos, mit offen genannten Grenzen."
+      },
+      "influence_breakdown": {
+        "official_acknowledgement": 0,
+        "oversight_action": 0,
+        "public_record": 1,
+        "lasting_impact": 1,
+        "evidence_substance": 2,
+        "note": "An independent scientific analysis of an official PURSUE video with a public reproduction package; the government has not commented on it.",
+        "note_de": "Eine unabhängige wissenschaftliche Analyse eines offiziellen PURSUE-Videos mit öffentlich zugänglichem Reproduktionspaket; die Regierung hat sich dazu nicht geäußert."
+      },
+      "timeline_context": "PURSUE files carry the label unresolved and come without assessments, so outside researchers have started testing the released clips themselves.",
+      "timeline_context_de": "PURSUE-Akten tragen das Etikett „ungelöst“ und kommen ohne Bewertung, deshalb prüfen inzwischen auch externe Forscher die freigegebenen Clips selbst.",
+      "tags": [
+        "pursue",
+        "infrared",
+        "birds",
+        "preprint",
+        "galileo-project",
         "2026"
       ]
     }
