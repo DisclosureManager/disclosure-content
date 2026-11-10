@@ -1,7 +1,16 @@
 {
   "feed_version": 1,
-  "generated_at": "2026-11-09T03:05:31Z",
+  "generated_at": "2026-11-10T06:10:01Z",
   "items": [
+    {
+      "id": "newsnation-ufo-b17fd7b9ec2f",
+      "title": "Avi Loeb: Puzzling observations by Air Force pilots in Trump's UFO claims",
+      "url": "https://www.newsnationnow.com/space/ufo/ufo-trump-airforce-pilots-avi-loeb/",
+      "source": "NewsNation",
+      "source_kind": "press",
+      "published_at": "2026-11-10T05:35:42Z",
+      "lang": "en"
+    },
     {
       "id": "newsnation-ufo-835448579d48",
       "title": "Trump says Air Force pilots revealed 'strange' sightings while up in the air",
@@ -216,15 +225,6 @@
       "source": "The Black Vault",
       "source_kind": "press",
       "published_at": "2026-10-14T12:20:59Z",
-      "lang": "en"
-    },
-    {
-      "id": "newsnation-ufo-f97d719bb939",
-      "title": "'Archive X' and the impossible | Reality Check",
-      "url": "https://www.newsnationnow.com/podcasts-newsnation/reality-check/archive-x-and-the-impossible-reality-check/",
-      "source": "NewsNation",
-      "source_kind": "press",
-      "published_at": "2026-10-13T21:00:00Z",
       "lang": "en"
     },
     {
