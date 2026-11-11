@@ -1,7 +1,16 @@
 {
   "feed_version": 1,
-  "generated_at": "2026-11-10T17:10:24Z",
+  "generated_at": "2026-11-11T01:25:00Z",
   "items": [
+    {
+      "id": "newsnation-ufo-74e934a153ed",
+      "title": "Whistleblowers 'fear being murdered,' author says | Reality Check",
+      "url": "https://www.newsnationnow.com/podcasts-newsnation/reality-check/whistleblowers-fear-being-murdered-author-says-reality-check/",
+      "source": "NewsNation",
+      "source_kind": "press",
+      "published_at": "2026-11-11T01:00:00Z",
+      "lang": "en"
+    },
     {
       "id": "newsnation-ufo-b17fd7b9ec2f",
       "title": "Puzzling observations by Air Force pilots in Trump's UFO claims: Avi Loeb",
@@ -189,15 +198,6 @@
       "source": "NewsNation",
       "source_kind": "press",
       "published_at": "2026-10-21T00:00:00Z",
-      "lang": "en"
-    },
-    {
-      "id": "newsnation-ufo-d047d91d5c9c",
-      "title": "Ross Coulthart: The White House is going around the legacy program | Reality Check",
-      "url": "https://www.newsnationnow.com/podcasts-newsnation/reality-check/ross-coulthart-the-white-house-is-going-around-the-legacy-program-reality-check/",
-      "source": "NewsNation",
-      "source_kind": "press",
-      "published_at": "2026-10-18T12:00:00Z",
       "lang": "en"
     },
     {
