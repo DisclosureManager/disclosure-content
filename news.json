@@ -1,7 +1,16 @@
 {
   "feed_version": 1,
-  "generated_at": "2026-11-11T01:25:00Z",
+  "generated_at": "2026-11-12T07:39:58Z",
   "items": [
+    {
+      "id": "newsnation-ufo-2d13535a2f09",
+      "title": "Tentacled UFO? Experts have explanation for bizarre Alaskan sight",
+      "url": "https://www.newsnationnow.com/us-news/west/tentacled-ufo-alaska/",
+      "source": "NewsNation",
+      "source_kind": "press",
+      "published_at": "2026-11-12T05:58:20Z",
+      "lang": "en"
+    },
     {
       "id": "newsnation-ufo-74e934a153ed",
       "title": "Whistleblowers 'fear being murdered,' author says | Reality Check",
@@ -189,15 +198,6 @@
       "source": "NewsNation",
       "source_kind": "press",
       "published_at": "2026-10-21T02:48:39Z",
-      "lang": "en"
-    },
-    {
-      "id": "newsnation-ufo-2a8882a4bed9",
-      "title": "Unexplained objects over British bases | Reality Check",
-      "url": "https://www.newsnationnow.com/podcasts-newsnation/reality-check/unexplained-objects-over-british-bases-reality-check/",
-      "source": "NewsNation",
-      "source_kind": "press",
-      "published_at": "2026-10-21T00:00:00Z",
       "lang": "en"
     },
     {
