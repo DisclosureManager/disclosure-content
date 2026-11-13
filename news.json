@@ -1,7 +1,16 @@
 {
   "feed_version": 1,
-  "generated_at": "2026-11-12T15:13:55Z",
+  "generated_at": "2026-11-13T03:03:54Z",
   "items": [
+    {
+      "id": "newsnation-ufo-811939c5a43c",
+      "title": "New UFO-spotting telescope planned, Avi Loeb says",
+      "url": "https://www.newsnationnow.com/the-hill/avi-loeb-ufo-telescope-plan/",
+      "source": "NewsNation",
+      "source_kind": "press",
+      "published_at": "2026-11-13T01:39:49Z",
+      "lang": "en"
+    },
     {
       "id": "newsnation-ufo-fe6307ead35f",
       "title": "Tentacled UFO over Alaska? Experts have explanation for bizarre video",
@@ -189,15 +198,6 @@
       "source": "NewsNation",
       "source_kind": "press",
       "published_at": "2026-10-23T12:00:00Z",
-      "lang": "en"
-    },
-    {
-      "id": "newsnation-ufo-5e8810fedfcc",
-      "title": "Ex-government UAP hunter pens book, describes aliens he's seen",
-      "url": "https://www.newsnationnow.com/politics/pentagon-ufo-hunter-jay-stratton-aliens/",
-      "source": "NewsNation",
-      "source_kind": "press",
-      "published_at": "2026-10-21T02:48:39Z",
       "lang": "en"
     },
     {
