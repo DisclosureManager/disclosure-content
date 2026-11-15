@@ -1,7 +1,16 @@
 {
   "feed_version": 1,
-  "generated_at": "2026-11-13T20:12:12Z",
+  "generated_at": "2026-11-15T04:12:28Z",
   "items": [
+    {
+      "id": "newsnation-ufo-037699ebcc5a",
+      "title": "UFO legacy program? Trump would have sniffed it out, scientist says",
+      "url": "https://www.newsnationnow.com/politics/trump-ufo-legacy-program-avi-loeb/",
+      "source": "NewsNation",
+      "source_kind": "press",
+      "published_at": "2026-11-15T03:49:07Z",
+      "lang": "en"
+    },
     {
       "id": "newsnation-ufo-811939c5a43c",
       "title": "New UFO-spotting telescope planned, Avi Loeb says",
@@ -189,15 +198,6 @@
       "source": "U.S. Department of War",
       "source_kind": "official",
       "published_at": "2026-10-23T12:00:02Z",
-      "lang": "en"
-    },
-    {
-      "id": "newsnation-ufo-071ce61e9dc0",
-      "title": "Latest Pentagon UFO files include reports of triangular craft over military sites",
-      "url": "https://www.newsnationnow.com/space/ufo/latest-ufo-files-oct-23/",
-      "source": "NewsNation",
-      "source_kind": "press",
-      "published_at": "2026-10-23T12:00:00Z",
       "lang": "en"
     },
     {
