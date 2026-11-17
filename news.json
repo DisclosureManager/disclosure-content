@@ -1,7 +1,16 @@
 {
   "feed_version": 1,
-  "generated_at": "2026-11-16T20:32:47Z",
+  "generated_at": "2026-11-17T22:28:25Z",
   "items": [
+    {
+      "id": "newsnation-ufo-01ad40f62a13",
+      "title": "The UFO summoning experiment: What Ross Coulthart witnessed in Australia | Reality Check",
+      "url": "https://www.newsnationnow.com/podcasts-newsnation/reality-check/the-ufo-summoning-experiment-what-ross-coulthart-witnessed-in-australia-reality-check/",
+      "source": "NewsNation",
+      "source_kind": "press",
+      "published_at": "2026-11-17T22:00:00Z",
+      "lang": "en"
+    },
     {
       "id": "space-com-ufos-2b68a10898e4",
       "title": "Could there be an ancient alien satellite in Earth's orbit? How the 'Black Knight' conspiracy theory has survived for over 100 years",
@@ -189,15 +198,6 @@
       "source": "NewsNation",
       "source_kind": "press",
       "published_at": "2026-10-25T02:03:36Z",
-      "lang": "en"
-    },
-    {
-      "id": "newsnation-ufo-9ab8b4ae80ab",
-      "title": "Roswell UFO wreckage account resurfaces in seventh file drop",
-      "url": "https://www.newsnationnow.com/us-news/west/roswell-ufo-eyewitness-walter-haut/",
-      "source": "NewsNation",
-      "source_kind": "press",
-      "published_at": "2026-10-24T04:58:23Z",
       "lang": "en"
     },
     {
