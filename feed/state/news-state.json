@@ -1,30 +1,27 @@
 {
   "war-releases": {},
-  "house-oversight": {},
+  "house-oversight": {
+    "etag": "\"521e143592d8edea6eda522061a7a511\"",
+    "last_modified": "Mon, 16 Nov 2026 17:41:59 GMT"
+  },
   "house-armed-services": {},
-  "senate-intelligence": {
-    "etag": "\"d74e6f9640860ff35bbcbb52a26da0aa-gzip\"",
-    "last_modified": "Tue, 17 Nov 2026 15:01:07 GMT"
-  },
-  "house-intelligence": {
-    "etag": "\"fab98cd7ec281c867a34b9851001013d\"",
-    "last_modified": "Tue, 17 Nov 2026 15:11:00 GMT"
-  },
+  "senate-intelligence": {},
+  "house-intelligence": {},
   "gao-reports": {
-    "etag": "\"1794931384\"",
-    "last_modified": "Tue, 17 Nov 2026 16:03:04 GMT"
+    "etag": "\"1794962564\"",
+    "last_modified": "Wed, 18 Nov 2026 00:42:44 GMT"
   },
   "newsnation-ufo": {
-    "etag": "\"4011a608e60338dadbf58bf9601c2030\"",
-    "last_modified": "Tue, 17 Nov 2026 22:24:33 GMT"
+    "etag": "\"77a976021c09ae5c2686cd2b2014e453\"",
+    "last_modified": "Wed, 18 Nov 2026 03:47:18 GMT"
   },
   "space-com-ufos": {},
   "the-debrief": {
-    "last_modified": "Tue, 17 Nov 2026 16:15:56 GMT"
+    "last_modified": "Tue, 17 Nov 2026 23:34:37 GMT"
   },
   "black-vault": {},
   "scu": {
-    "last_modified": "Fri, 13 Nov 2026 05:51:57 GMT"
+    "last_modified": "Fri, 13 Nov 2026 11:47:08 GMT"
   },
   "sol-foundation": {
     "etag": "W/\"de77fb282a1f415cb6c77e9ce0537a1d\"",
