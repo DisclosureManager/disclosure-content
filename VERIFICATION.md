@@ -1,4 +1,4 @@
-# Content verification log (catalog_version 5, 2026-10-27)
+# Content verification log (catalog_version 8, 2026-11-20)
 
 Internal file, not part of the app bundle (lives outside DisclosureApp/).
 
@@ -13,6 +13,9 @@ Original-language quotes (v5): when no official English text exists, the quote `
 v5 also refreshes two existing texts (no new quotes): pursue-release-06-2026 `timeline_context`/`_de` and pursue-nda-waiver-2026 influence `note`/`note_de`.
 
 Totals: 58 entries, 159/159 quotes verified verbatim.
+Catalog v8 (2026-11-20, Europe/Berlin) adds two entries. burlison-barber-adviser-2026: official House press release, HTTP 200. pursue-release-08-2026: war.gov release 4655441 loaded with WebFetch; curl from this environment returned HTTP 403 (Akamai). v8 also refreshes pursue-release-07-2026 timeline_context/_de (no new quotes). Entries added in v6 and v7 (pursue-pr135-birds-preprint-2026, kirkpatrick-unresolved-labels-2026) were already in the catalog; this log did not yet have rows for them.
+
+Catalog v8 totals: 62 entries. Quote checks for the two new v8 entries are in the table and sections below.
 
 | entry id | source_url status | quotes verified | notes |
 |---|---|---|---|
@@ -74,6 +77,8 @@ Totals: 58 entries, 159/159 quotes verified verbatim.
 | sefaa-chile-cases-sep-2026 | WebFetch OK (curl 000) | 2/2 yes | Added in catalog v5 (checked 2026-10-27). Spanish originals with unofficial English translations. Quote 1 from the case page; quote 2 from case file PDF 2288 (first read 2026-10-27; a re-fetch at 06:42 returned HTTP 500, the re-check at about 06:47 returned the document again with the same text). The PDF of case 2289 wrongly says "Caso N°: 2288" in its header. |
 | bundestag-uap-answer-2026 | 200 | 3/3 yes | Added in catalog v5 (checked 2026-10-27). German originals with unofficial English translations, from Drucksache 21/8662 (dated 16.10.2026). Question: Drucksache 21/8323 (02.10.2026, 200). |
 | uk-mod-typhoon-airprox-2026 | WebFetch OK; Parliament API 200 | 2/2 yes | Added in catalog v5 (checked 2026-10-27). Quote 1 from the written answer (UIN 36199). Quote 2 from the UK Airprox Board April 2026 drone summary PDF (200), row 2026014; the same standard wording appears in other rows. event_date 2026-02-23 = date of the airprox. |
+| burlison-barber-adviser-2026 | 200 | 3/3 yes | Added in catalog v8 (checked 2026-11-20). Official House press release (HTTP 200, last-modified 2026-11-18 15:18:07 GMT). Quotes are the English originals from that page. |
+| pursue-release-08-2026 | WebFetch OK (curl 403) | 3/3 yes | Added in catalog v8 (checked 2026-11-20). war.gov release 4655441 loaded via WebFetch; curl from this environment returned HTTP 403 (Akamai). All three quotes are from the statement attributable to Sean Parnell on that page. The news release does not inventory the records in the tranche. |
 
 ## Quote-level detail
 
@@ -568,3 +573,21 @@ Totals: 58 entries, 159/159 quotes verified verbatim.
   > DASORs are not intended to provide assessments of intent, ownership, attribution, or threat.
 - quote verified: yes. Checked against https://www.airproxboard.org.uk/media/3ikpobnb/april-drone-summary-sheet.pdf - UK Airprox Board summary, row 2026014
   > In the Board's opinion the reported altitude and/or description of the object were such that they were unable to determine the nature of the unknown object.
+
+### burlison-barber-adviser-2026
+- source_url: https://burlison.house.gov/media/press-releases/burlison-names-uap-whistleblower-jake-barber-senior-adviser
+- quote verified: yes. Checked against https://burlison.house.gov/media/press-releases/burlison-names-uap-whistleblower-jake-barber-senior-adviser
+  > Jake brings firsthand experience and an investigative background that will strengthen our efforts to get answers
+- quote verified: yes. Checked against https://burlison.house.gov/media/press-releases/burlison-names-uap-whistleblower-jake-barber-senior-adviser
+  > President Trump has opened the door to greater transparency, and Congress needs to keep pushing. We have an opportunity to follow the evidence and uncover information the American people deserve to see.
+- quote verified: yes. Checked against https://burlison.house.gov/media/press-releases/burlison-names-uap-whistleblower-jake-barber-senior-adviser
+  > Testimony is evidence. It helps us understand where to look and what questions to ask
+
+### pursue-release-08-2026
+- source_url: https://www.war.gov/News/Releases/Release/Article/4655441/department-of-war-publishes-eighth-release-of-unidentified-anomalous-phenomena/
+- quote verified: yes. Checked against https://www.war.gov/News/Releases/Release/Article/4655441/department-of-war-publishes-eighth-release-of-unidentified-anomalous-phenomena/
+  > Today, the Department of War is publishing the eighth release of declassified and historical Unidentified Anomalous Phenomena (UAP) files as part of the Presidential Unsealing and Reporting System for UAP Encounters (PURSUE).
+- quote verified: yes. Checked against https://www.war.gov/News/Releases/Release/Article/4655441/department-of-war-publishes-eighth-release-of-unidentified-anomalous-phenomena/
+  > The collection continues to be housed on WAR.GOV/UFO, and the Department will release additional files on a rolling basis.
+- quote verified: yes. Checked against https://www.war.gov/News/Releases/Release/Article/4655441/department-of-war-publishes-eighth-release-of-unidentified-anomalous-phenomena/
+  > The Department of War and our agency partners are actively working on the next release of UAP files.
