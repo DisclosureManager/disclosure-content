@@ -82,9 +82,16 @@ Quotes and sources always stay in the English original. Original-language quotes
 
 ### Current catalog
 
-- `catalog_version` 5, updated 2026-10-27
-- 58 entries, 159 quotes, all verified (see VERIFICATION.md)
+- `catalog_version` 8, updated 2026-11-20
+- 62 entries (see VERIFICATION.md for quote checks)
 - 23 glossary terms
+- `pins_version` 3
+- New in v8:
+  - Rep. Eric Burlison names Jake Barber senior UAP adviser (House press release, November 18, 2026)
+  - Eighth PURSUE release (Department of War, November 20, 2026)
+  - refreshed: pursue-release-07-2026 timeline line
+- New in v7: Kirkpatrick unresolved-labels interview (November 1, 2026)
+- New in v6: PURSUE PR135 birds preprint (October 6, 2026)
 - New in v5:
   - PURSUE Release 07 (Department of War, October 23, 2026)
   - Chile SEFAA September 2026 case files (October 8, 2026)
@@ -169,9 +176,16 @@ Zitate und Quellen bleiben immer im englischen Original. Zitate in der Originals
 
 ### Aktueller Katalog
 
-- `catalog_version` 5, Stand 27.10.2026
-- 58 Einträge, 159 Zitate, alle geprüft (siehe VERIFICATION.md)
+- `catalog_version` 8, Stand 20.11.2026
+- 62 Einträge (Zitatprüfung siehe VERIFICATION.md)
 - 23 Glossarbegriffe
+- `pins_version` 3
+- Neu in v8:
+  - Abgeordneter Eric Burlison ernennt Jake Barber zum leitenden UAP-Berater (Pressemitteilung des Abgeordnetenbüros, 18. November 2026)
+  - Achte PURSUE-Freigabe (Department of War, 20. November 2026)
+  - aktualisiert: Zeitleisten-Zeile von pursue-release-07-2026
+- Neu in v7: Kirkpatrick-Interview zu „ungelöst“-Kennzeichnungen (1. November 2026)
+- Neu in v6: PURSUE-PR135-Preprint zu Vögeln (6. Oktober 2026)
 - Neu in v5:
   - PURSUE-Freigabe 07 (Department of War, 23. Oktober 2026)
   - Chile: SEFAA-Fallakten vom September 2026 (8. Oktober 2026)

@@ -1,6 +1,6 @@
 {
-  "catalog_version": 7,
-  "updated": "2026-11-09",
+  "catalog_version": 8,
+  "updated": "2026-11-20",
   "entries": [
     {
       "id": "roswell-1947",
@@ -3693,8 +3693,8 @@
         "note": "Official tranche led by a 2026 AARO memo and FBI interview report on a triangular object; the key dates and places are redacted and the case is unresolved.",
         "note_de": "Offizielle Tranche mit einem AARO-Vermerk und einem FBI-Befragungsbericht von 2026 zu einem dreieckigen Objekt; die wichtigsten Daten und Orte sind geschwärzt, der Fall ist ungeklärt."
       },
-      "timeline_context": "Most recent PURSUE release in this catalog (October 2026).",
-      "timeline_context_de": "Jüngste PURSUE-Freigabe in diesem Katalog (Oktober 2026).",
+      "timeline_context": "Seventh PURSUE release (October 2026).",
+      "timeline_context_de": "Siebte PURSUE-Freigabe (Oktober 2026).",
       "tags": [
         "pursue",
         "release",
@@ -4035,6 +4035,142 @@
         "pursue",
         "unresolved",
         "2026"
+      ]
+    },
+    {
+      "id": "burlison-barber-adviser-2026",
+      "title": "Rep. Burlison Names Whistleblower Jake Barber Senior UAP Adviser",
+      "title_de": "Abgeordneter Burlison ernennt Whistleblower Jake Barber zum leitenden UAP-Berater",
+      "date": "2026-11-18",
+      "source": "Office of Rep. Eric Burlison, U.S. House of Representatives",
+      "source_url": "https://burlison.house.gov/media/press-releases/burlison-names-uap-whistleblower-jake-barber-senior-adviser",
+      "category": "Other",
+      "summary": "Congressman Eric Burlison's office announced that U.S. Air Force veteran and UAP whistleblower Jake Barber has joined the office as a senior adviser on unidentified anomalous phenomena. The announcement says Barber, who in January 2025 came forward with firsthand accounts of UAP-recovery operations, will assist with congressional investigations, witness engagement, and efforts to independently verify UAP-related evidence. Burlison said Barber's experience and investigative background will strengthen the office's efforts to get answers. Barber said testimony helps show where to look, and that the goal is to add technical measurements, multiple independent observations, and documentation that can stand on its own. The release also says Burlison is working to advance his UAP Disclosure Act, which it states passed the House as part of the fiscal year 2027 National Defense Authorization Act.",
+      "summary_de": "Das Büro von Abgeordnetem Eric Burlison gab bekannt, dass der Air-Force-Veteran und UAP-Whistleblower Jake Barber als leitender Berater für unidentifizierte anomale Phänomene ins Büro kommt. Laut der Mitteilung soll Barber, der im Januar 2025 mit Schilderungen von UAP-Bergungsoperationen an die Öffentlichkeit ging, bei Kongressuntersuchungen, der Ansprache von Zeugen und bei Versuchen helfen, UAP-bezogene Hinweise unabhängig zu prüfen. Burlison sagte, Barbers Erfahrung und investigativer Hintergrund würden die Bemühungen um Antworten stärken. Barber sagte, Aussagen zeigten, wo man suchen müsse, und das Ziel sei, technische Messungen, mehrere unabhängige Beobachtungen und Dokumentation hinzuzufügen, die für sich stehen könne. Die Mitteilung schreibt außerdem, Burlison arbeite daran, sein UAP Disclosure Act voranzubringen, das nach Angaben der Mitteilung als Teil des National Defense Authorization Act für das Haushaltsjahr 2027 das Repräsentantenhaus passiert habe.",
+      "quotes": [
+        {
+          "speaker": "Rep. Eric Burlison, press release of November 18, 2026",
+          "text": "Jake brings firsthand experience and an investigative background that will strengthen our efforts to get answers"
+        },
+        {
+          "speaker": "Rep. Eric Burlison, press release of November 18, 2026",
+          "text": "President Trump has opened the door to greater transparency, and Congress needs to keep pushing. We have an opportunity to follow the evidence and uncover information the American people deserve to see."
+        },
+        {
+          "speaker": "Jake Barber, in the Burlison office press release of November 18, 2026",
+          "text": "Testimony is evidence. It helps us understand where to look and what questions to ask"
+        }
+      ],
+      "relevance_score": 5,
+      "relevance_breakdown": {
+        "crash_retrievals": {
+          "score": 1,
+          "note": "The announcement refers to Barber's earlier public accounts of UAP-recovery operations; it does not release new records."
+        },
+        "non_human_origin": {
+          "score": 0,
+          "note": "Not addressed."
+        },
+        "government_coverup": {
+          "score": 1,
+          "note": "Burlison frames the appointment as part of a push for greater transparency; no new withheld records are published."
+        },
+        "technology": {
+          "score": 0,
+          "note": "No new technical data."
+        },
+        "whistleblower_credibility": {
+          "score": 2,
+          "note": "A member of Congress appointed a named whistleblower as a senior adviser; this is a staffing announcement, not new testimony under oath."
+        },
+        "explanation": "A formal House office announcement of a UAP staffing appointment; it adds no new case records.",
+        "explanation_de": "Eine förmliche Mitteilung eines Abgeordnetenbüros über eine UAP-Personalie; neue Fallakten enthält sie nicht."
+      },
+      "influence_breakdown": {
+        "official_acknowledgement": 2,
+        "oversight_action": 1,
+        "public_record": 2,
+        "lasting_impact": 1,
+        "evidence_substance": 0,
+        "note": "An official House office announcement of a senior UAP adviser appointment; it is a staffing record, not a hearing or a release of case files.",
+        "note_de": "Eine amtliche Mitteilung eines Abgeordnetenbüros über die Berufung eines leitenden UAP-Beraters; es ist eine Personalie, keine Anhörung und keine Freigabe von Fallakten."
+      },
+      "timeline_context": "Comes during the PURSUE releases and after the House passed Burlison's UAP Disclosure Act as part of the FY2027 NDAA in July 2026, according to the same announcement.",
+      "timeline_context_de": "Fällt in die Zeit der PURSUE-Freigaben und liegt nach der Annahme von Burlisons UAP Disclosure Act als Teil des NDAA für 2027 im Juli 2026, laut derselben Mitteilung.",
+      "tags": [
+        "burlison",
+        "barber",
+        "adviser",
+        "congress",
+        "whistleblower",
+        "2026"
+      ]
+    },
+    {
+      "id": "pursue-release-08-2026",
+      "title": "Eighth PURSUE Release of UAP Files",
+      "title_de": "Achte PURSUE-Freigabe von UAP-Akten",
+      "date": "2026-11-20",
+      "source": "U.S. Department of War",
+      "source_url": "https://www.war.gov/News/Releases/Release/Article/4655441/department-of-war-publishes-eighth-release-of-unidentified-anomalous-phenomena/",
+      "category": "FOIA Release",
+      "summary": "The Department of War published the eighth release of declassified and historical UAP files under PURSUE, according to a statement attributable to Chief Pentagon Spokesman Sean Parnell. Parnell said the collection remains on WAR.GOV/UFO, that further files will be released on a rolling basis, and that the department and its agency partners are already working on the next release. The department's Release 08 announcement on the same site dates the tranche to November 20, 2026. The official news release does not inventory the individual records in this tranche. Standing text on the collection page says the materials archived there are unresolved cases, meaning the government has not made a definitive determination on the nature of the observed phenomena.",
+      "summary_de": "Das Kriegsministerium veröffentlichte die achte Freigabe freigegebener und historischer UAP-Akten im Rahmen von PURSUE, laut einer Erklärung, die dem leitenden Pentagon-Sprecher Sean Parnell zugeschrieben wird. Parnell sagte, die Sammlung bleibe auf WAR.GOV/UFO, weitere Akten würden laufend veröffentlicht, und das Ministerium und seine Partnerbehörden arbeiteten bereits an der nächsten Freigabe. Die Release-08-Ankündigung auf derselben Website datiert die Tranche auf den 20. November 2026. Die amtliche Pressemitteilung listet die einzelnen Unterlagen dieser Tranche nicht auf. Ein stehender Text auf der Sammlungsseite bezeichnet die dort abgelegten Materialien als ungeklärte Fälle, also als Fälle, in denen die Regierung die beobachteten Phänomene nicht abschließend bestimmt hat.",
+      "quotes": [
+        {
+          "speaker": "Sean Parnell, Chief Pentagon Spokesman, release of November 20, 2026",
+          "text": "Today, the Department of War is publishing the eighth release of declassified and historical Unidentified Anomalous Phenomena (UAP) files as part of the Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)."
+        },
+        {
+          "speaker": "Sean Parnell, Chief Pentagon Spokesman, release of November 20, 2026",
+          "text": "The collection continues to be housed on WAR.GOV/UFO, and the Department will release additional files on a rolling basis."
+        },
+        {
+          "speaker": "Sean Parnell, Chief Pentagon Spokesman, release of November 20, 2026",
+          "text": "The Department of War and our agency partners are actively working on the next release of UAP files."
+        }
+      ],
+      "relevance_score": 5,
+      "relevance_breakdown": {
+        "crash_retrievals": {
+          "score": 0,
+          "note": "The news release does not describe individual files."
+        },
+        "non_human_origin": {
+          "score": 0,
+          "note": "The news release does not assess origin."
+        },
+        "government_coverup": {
+          "score": 1,
+          "note": "Official publication of previously unreleased files; the news release does not list them."
+        },
+        "technology": {
+          "score": 0,
+          "note": "The news release does not describe the contents of individual files."
+        },
+        "whistleblower_credibility": {
+          "score": 0,
+          "note": "Not addressed."
+        },
+        "explanation": "An official eighth PURSUE tranche; the department's news release confirms the publication but does not inventory the files.",
+        "explanation_de": "Eine offizielle achte PURSUE-Tranche; die Pressemitteilung des Ministeriums bestätigt die Veröffentlichung, listet die Akten aber nicht auf."
+      },
+      "influence_breakdown": {
+        "official_acknowledgement": 2,
+        "oversight_action": 1,
+        "public_record": 2,
+        "lasting_impact": 1,
+        "evidence_substance": 1,
+        "note": "Official eighth PURSUE tranche announced by the Department of War; the news release does not inventory the records, which the collection page describes as unresolved cases.",
+        "note_de": "Offizielle achte PURSUE-Tranche, angekündigt vom Kriegsministerium; die Pressemitteilung listet die Unterlagen nicht auf, die Sammlungsseite bezeichnet sie als ungeklärte Fälle."
+      },
+      "timeline_context": "Follows the seventh PURSUE release of October 23, 2026.",
+      "timeline_context_de": "Folgt auf die siebte PURSUE-Freigabe vom 23. Oktober 2026.",
+      "tags": [
+        "pursue",
+        "release",
+        "2026",
+        "war.gov"
       ]
     }
   ]
